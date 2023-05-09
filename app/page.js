@@ -1,7 +1,5 @@
-import Logo from "@/components/ui/Logo";
-import Button from "../components/ui/Button";
-import Input from "@/components/ui/Input";
+import Pagination from "@/components/ui/Pagination/Pagination";
 
 export default function Home() {
-  return <Input />;
+  return <Pagination />;
 }

@@ -1,3 +1,5 @@
+'use client'
+
 const Input = ({
   placeholder = "123",
   htmlType = "text",

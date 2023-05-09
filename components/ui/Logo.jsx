@@ -5,11 +5,12 @@ import {
   headerDesktop,
   headerMobile,
 } from "@/images/icons/logo/logo";
+import Link from "next/link";
 
-const Logo = ({ type = "primary" }) => {
+const Logo = ({ type = "primary", href = "/" }) => {
   if (type === "secondary") {
     return (
-      <>
+      <Link href={href}>
         <Image
           src={footerMobile}
           className="md:hidden"
@@ -20,12 +21,12 @@ const Logo = ({ type = "primary" }) => {
           className="hidden md:block"
           alt="Логотип SanSearch - три книжки лежащие друг на друге и название компании"
         />
-      </>
+      </Link>
     );
   }
 
   return (
-    <>
+    <Link href={href}>
       <Image
         src={headerMobile}
         className="md:hidden"
@@ -36,7 +37,7 @@ const Logo = ({ type = "primary" }) => {
         className="hidden md:block"
         alt="Логотип SanSearch - три книжки лежащие друг на друге и название компании"
       />
-    </>
+    </Link>
   );
 };
 
