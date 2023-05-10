@@ -1,35 +1,54 @@
 "use client";
 
-import {
-  leftActive,
-  leftDisabled,
-  rightActive,
-  rightDisabled,
-} from "@/images/icons/arrows/arrows";
 import Image from "next/image";
-import { useState } from "react";
 import PaginationButton from "./PaginationButton/PaginationButton";
+import { leftActive, leftDisabled } from "@/images/icons/arrows/arrows";
 
-const Pagination = () => {
-  const [leftArrowActive, setLeftArrowActive] = useState(false);
-  const [rightArrowActive, setRightArrowActive] = useState(true);
+const Pagination = ({
+  documentsPerPage,
+  totalDocuments,
+  paginatePage,
+  currentPage,
+}) => {
+  const pageNumbers = [];
+
+  for (let i = 1; i <= Math.ceil(totalDocuments / documentsPerPage); i++) {
+    pageNumbers.push(i);
+  }
 
   return (
     <article className="flex items-center justify-center gap-2">
-      <PaginationButton>
-        <Image
-          src={leftArrowActive ? leftActive : leftDisabled}
-          alt="черная стрелочка налево"
-        />
-      </PaginationButton>
-      <PaginationButton>1</PaginationButton>
-      <PaginationButton>1</PaginationButton>
-      <PaginationButton>
-        <Image
-          src={rightArrowActive ? rightActive : rightDisabled}
-          alt="черная стрелочка направо"
-        />
-      </PaginationButton>
+      <ul className="flex flex-row items-center">
+        <PaginationButton
+          disabled={currentPage === 1}
+          onClick={() => paginatePage((prev) => prev - 1)}
+        >
+          <Image
+            className="fill-green-500"
+            src={currentPage === 1 ? leftDisabled : leftActive}
+            alt="стрелочка назад"
+          />
+        </PaginationButton>
+        {pageNumbers.map((number) => (
+          <PaginationButton
+            onClick={() => paginatePage(number)}
+            key={number}
+            isCurrentPage={currentPage === number}
+          >
+            {number}
+          </PaginationButton>
+        ))}
+        <PaginationButton
+          disabled={currentPage === pageNumbers.length}
+          onClick={() => paginatePage((prev) => prev + 1)}
+        >
+          <Image
+            className="scale-x-[-1]"
+            src={currentPage === pageNumbers.length ? leftDisabled : leftActive}
+            alt="стрелочка вперед"
+          />
+        </PaginationButton>
+      </ul>
     </article>
   );
 };
