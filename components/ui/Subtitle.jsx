@@ -7,7 +7,7 @@ const Subtitle = ({ children, className, type = "primary" }) => {
     );
   }
 
-  return <h2 className={"text-3xl uppercase" + ` ${className}`}>{children}</h2>;
+  return <h2 className={"text-2xl uppercase text-center lg:text-4xl" + ` ${className}`}>{children}</h2>;
 };
 
 export default Subtitle;
