@@ -5,6 +5,7 @@ const links = {
   about: "/about",
   profile: "/profile",
   document: "/document",
+  privacy: "/privacy-policy",
 };
 
 export default links;
