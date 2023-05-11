@@ -22,6 +22,10 @@ module.exports = {
       dropShadow: {
         roundedButton: "3px 3px 4px rgba(0, 0, 0, 0.25)",
       },
+
+      backgroundImage: {
+        silver: 'url("/silver.png")',
+      },
     },
   },
   plugins: [],

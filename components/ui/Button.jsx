@@ -12,7 +12,7 @@ const Button = ({
     return (
       <button
         className={
-          "bg-white-orange flex items-center justify-center text-[20px] leading-[14px] w-[280px] md:w-[290px] py-[13px] md:py-[18px]" +
+          "bg-white-orange flex items-center justify-center text-[20px] leading-[14px] w-[280px] h-[40px] md:w-[290px] xl:h-[60px]" +
           ` ${className}`
         }
         type={htmlType}
