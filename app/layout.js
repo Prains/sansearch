@@ -1,4 +1,5 @@
 import Header from "@/components/Header/Header";
+import Footer from "@/components/Footer/Footer";
 import "./globals.css";
 
 export const metadata = {
@@ -12,6 +13,7 @@ export default function RootLayout({ children }) {
       <body className="font-text" suppressHydrationWarning={true}>
         <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );
