@@ -6,7 +6,7 @@ import Pagination from "@/components/ui/Pagination/Pagination";
 export const TEST_PAGINATION = () => {
   const documents = [];
 
-  for (let i = 1; i <= 110; i++) {
+  for (let i = 1; i <= 140; i++) {
     documents.push(`Документ ${i}`);
   }
 
