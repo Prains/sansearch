@@ -4,7 +4,7 @@ import {
   footerMobile,
   headerDesktop,
   headerMobile,
-} from "@/images/icons/logo/logo";
+} from "@/images/icons/logo";
 import Link from "next/link";
 
 const Logo = ({ type = "primary", href = "/" }) => {

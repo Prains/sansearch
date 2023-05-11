@@ -4,7 +4,13 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import PaginationButton from "@/components/ui/Pagination/PaginationButton/PaginationButton";
 import { paginate } from "@/utils/paginate";
-import { leftActive, leftDisabled } from "@/images/icons/arrows/arrows";
+
+import { arrowActiveSvg, arrowDisabledSvg } from "@/images/icons/arrows";
+
+/**
+ * @param {Array<Object>}  documents - принимает массив документов.
+ * @param {Function (number) => Array}  setSlicedDocuments - функкция, для изменения состояния КОПИИ документов.
+ */
 
 const Pagination = ({ documents, setSlicedDocuments }) => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -12,9 +18,9 @@ const Pagination = ({ documents, setSlicedDocuments }) => {
 
   const pageNumbers = [];
   const paginatePage = (pageNumber) => setCurrentPage(pageNumber);
-  const maxPage = Math.ceil(documents.length / documentsPerPage);
+  const totalPage = Math.ceil(documents.length / documentsPerPage);
 
-  for (let i = 1; i <= maxPage; i++) {
+  for (let i = 1; i <= totalPage; i++) {
     pageNumbers.push(i);
   }
 
@@ -27,113 +33,49 @@ const Pagination = ({ documents, setSlicedDocuments }) => {
     setSlicedDocuments(paginate(documents, currentPage, documentsPerPage));
   }, [currentPage]);
 
-  const getPaginateButtons = (currentPage, pageNumbers, maxPage) => {
-    const one = 1;
-    if (maxPage <= 7) {
-      return (
-        <>
-          {pageNumbers.map((number) => (
-            <PaginationButton
-              onClick={() => handleClickPage(number)}
-              key={number}
-              isCurrentPage={currentPage === number}
-              disabled={currentPage === number}
-            >
-              {number}
-            </PaginationButton>
-          ))}
-        </>
-      );
-    }
-    const showingTrimPage = 5;
-    if (currentPage <= showingTrimPage - 1) {
-      return (
-        <>
-          {pageNumbers.slice(0, showingTrimPage).map((number) => (
-            <PaginationButton
-              onClick={() => handleClickPage(number)}
-              key={number}
-              isCurrentPage={currentPage === number}
-              disabled={currentPage === number}
-            >
-              {number}
-            </PaginationButton>
-          ))}
-          <PaginationButton disabled>...</PaginationButton>
-          <PaginationButton
-            onClick={() => handleClickPage(maxPage)}
-            key={maxPage}
-            isCurrentPage={currentPage === maxPage}
-            disabled={currentPage === maxPage}
-          >
-            {maxPage}
-          </PaginationButton>
-        </>
-      );
+  const renderPaginationButtons = () => {
+    let pageNumbers = Array.from({ length: totalPage }, (_, i) => i + 1);
+    if (totalPage > 7) {
+      const showingTrimPage = 5;
+      if (currentPage <= showingTrimPage - 1) {
+        pageNumbers = [
+          ...pageNumbers.slice(0, showingTrimPage),
+          "...",
+          totalPage,
+        ];
+      } else if (currentPage >= totalPage - showingTrimPage + 2) {
+        pageNumbers = [1, "...", ...pageNumbers.slice(-showingTrimPage)];
+      } else {
+        pageNumbers = [
+          1,
+          "...",
+          ...pageNumbers.slice(currentPage - 2, currentPage + 1),
+          "...",
+          totalPage,
+        ];
+      }
     }
 
-    if (currentPage >= maxPage - showingTrimPage + 2) {
-      return (
-        <>
-          <PaginationButton
-            onClick={() => handleClickPage(one)}
-            key={one}
-            isCurrentPage={currentPage === one}
-            disabled={currentPage === one}
-          >
-            {one}
-          </PaginationButton>
-          <PaginationButton disabled>...</PaginationButton>
-          {pageNumbers.slice(-showingTrimPage).map((number) => (
-            <PaginationButton
-              onClick={() => handleClickPage(number)}
-              key={number}
-              isCurrentPage={currentPage === number}
-              disabled={currentPage === number}
-            >
-              {number}
-            </PaginationButton>
-          ))}
-        </>
-      );
-    }
-
-    return (
-      <>
-        <PaginationButton
-          onClick={() => handleClickPage(one)}
-          key={one}
-          isCurrentPage={currentPage === one}
-          disabled={currentPage === one}
-        >
-          {one}
+    return pageNumbers.map((number, i) =>
+      number === "..." ? (
+        <PaginationButton disabled key={i}>
+          {number}
         </PaginationButton>
-        <PaginationButton disabled>...</PaginationButton>
-        {pageNumbers.slice(currentPage - 2, currentPage + 1).map((number) => (
-          <PaginationButton
-            onClick={() => handleClickPage(number)}
-            key={number}
-            isCurrentPage={currentPage === number}
-            disabled={currentPage === number}
-          >
-            {number}
-          </PaginationButton>
-        ))}
-        <PaginationButton disabled>...</PaginationButton>
+      ) : (
         <PaginationButton
-          onClick={() => handleClickPage(maxPage)}
-          key={maxPage}
-          isCurrentPage={currentPage === maxPage}
-          disabled={currentPage === maxPage}
+          onClick={() => handleClickPage(number)}
+          key={i}
+          isCurrentPage={currentPage === number}
+          disabled={currentPage === number}
         >
-          {maxPage}
+          {number}
         </PaginationButton>
-      </>
+      )
     );
   };
 
   return (
-    <article className="flex items-center justify-center gap-2">
+    <nav className="flex items-center justify-center gap-2">
       <ul className="flex flex-row items-center">
         <PaginationButton
           disabled={currentPage === 1}
@@ -141,23 +83,27 @@ const Pagination = ({ documents, setSlicedDocuments }) => {
         >
           <Image
             className="fill-green-500"
-            src={currentPage === 1 ? leftDisabled : leftActive}
+            src={currentPage === 1 ? arrowDisabledSvg : arrowActiveSvg}
             alt="стрелочка назад"
           />
         </PaginationButton>
-        {getPaginateButtons(currentPage, pageNumbers, maxPage)}
+        {renderPaginationButtons()}
         <PaginationButton
           disabled={currentPage === pageNumbers.length}
           onClick={() => paginatePage((prev) => prev + 1)}
         >
           <Image
             className="scale-x-[-1]"
-            src={currentPage === pageNumbers.length ? leftDisabled : leftActive}
+            src={
+              currentPage === pageNumbers.length
+                ? arrowDisabledSvg
+                : arrowActiveSvg
+            }
             alt="стрелочка вперед"
           />
         </PaginationButton>
       </ul>
-    </article>
+    </nav>
   );
 };
 
