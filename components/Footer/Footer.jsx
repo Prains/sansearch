@@ -1,7 +1,7 @@
 import links from "@/utils/links";
+import Button from "@/components/ui/Button";
+import Logo from "@/components/ui/Logo";
 import Link from "next/link";
-import Button from "../ui/Button";
-import Logo from "../ui/Logo";
 
 const Footer = () => {
   return (
