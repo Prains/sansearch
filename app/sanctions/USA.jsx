@@ -1,5 +1,5 @@
 const USA = () => {
-    return (  );
-}
- 
+  return null;
+};
+
 export default USA;
