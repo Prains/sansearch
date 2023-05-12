@@ -14,7 +14,7 @@ const MainInput = ({
       required
       maxLength={254}
       onChange={onChange}
-      className="w-[280px] lg:w-full placeholder:pl-4 py-2 lg:py-0 lg:h-[56px] border-[#FFB443] border rounded-sm"
+      className="w-[280px] lg:w-full placeholder:pl-4 py-2 lg:py-0 lg:h-[60px] border-[#FFB443] border rounded-sm"
     />
   );
 };

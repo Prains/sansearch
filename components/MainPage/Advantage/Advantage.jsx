@@ -11,8 +11,8 @@ const Advantage = () => {
     "Проверка факта включения в санкционные списки",
   ];
   return (
-    <div className=" pb-[30px] pt-[28px] lg:pt-[58px] lg:pb-[53px] bg-silver bg-no-repeat bg-cover bg-center">
-      <section className="flex flex-col items-center w-[88%] mx-auto lg:w-[91%] lg:items-start">
+    <div className="pb-[30px] pt-[28px] lg:pt-[58px] lg:pb-[53px] bg-silver bg-no-repeat bg-cover bg-center w-full">
+      <section className="flex flex-col items-center w-[75%] lg:w-[87%] mx-auto lg:items-start">
         <Subtitle>Возможности</Subtitle>
         <AdvantageList list={advantages} />
         <Button type="secondary" className="text-white uppercase">

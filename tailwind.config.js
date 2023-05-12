@@ -8,9 +8,9 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      text: "Microsoft Tai Le",
+      text: "Microsoft Tai Le, sans-serif",
     },
-    extend: {
+    extend: { 
       colors: {
         "white-orange": "#FFC56D",
         "darker-orange": "#FFB443",

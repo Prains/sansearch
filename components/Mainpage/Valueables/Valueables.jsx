@@ -28,7 +28,7 @@ const Valueables = () => {
 
   return (
     <section className="w-[75%] lg:w-[87%] mx-auto my-0 flex items-center justify-center flex-col">
-      <Subtitle className="w-[200px] mb-[15px] lg:w-max lg:self-start">
+      <Subtitle className="w-[200px] mb-[15px] text-center lg:text-left lg:w-max lg:self-start">
         наши ценности
       </Subtitle>
       <div className="flex items-center justify-center flex-col gap-5 lg:flex-row lg:gap-9">
