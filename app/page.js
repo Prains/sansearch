@@ -1,4 +1,4 @@
-import Advantage from "@/components/Mainpage/Advantage/Advantage.jsx";
+import Advantage from "@/components/Mainpage/Advantage/Advantage";
 import Main from "@/components/Mainpage/Main/Main";
 import Valueables from "@/components/Mainpage/Valueables/Valueables";
 
