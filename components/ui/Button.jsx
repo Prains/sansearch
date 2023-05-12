@@ -13,7 +13,7 @@ const Button = ({
     return (
       <button
         className={
-          "bg-white-orange flex items-center justify-center text-[20px] leading-[14px] w-[280px] h-[40px] lg:w-[290px] lg:h-[60px]" +
+          "bg-white-orange flex items-center justify-center text-[20px] leading-[14px] w-[280px] h-[40px] lg:w-[290px] lg:h-[60px] hover:drop-shadow-roundedButton active:bg-darker-orange" +
           ` ${className}`
         }
         type={htmlType}
@@ -43,7 +43,7 @@ const Button = ({
   return (
     <button
       className={
-        "bg-white-orange flex items-center justify-center text-base leading-4 w-[120px] py-[11px]" +
+        "bg-white-orange flex items-center justify-center text-base leading-4 w-[120px] py-[11px] hover:drop-shadow-roundedButton active:bg-darker-orange" +
         ` ${className}`
       }
       type={htmlType}

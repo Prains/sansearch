@@ -40,7 +40,7 @@ const Header = () => {
       />
       <Link
         href={"/"}
-        className="bg-white-orange py-[11px] w-[120px] lg:flex items-center justify-center hidden "
+        className="bg-white-orange py-[11px] w-[120px] lg:flex items-center justify-center hidden hover:drop-shadow-roundedButton active:bg-darker-orange"
       >
         Войти
       </Link>
