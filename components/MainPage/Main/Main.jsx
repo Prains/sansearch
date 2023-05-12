@@ -23,7 +23,7 @@ const Main = () => {
             <Button
               type="secondary"
               htmlType="submit"
-              className="text-white flex items-center justify-center gap-1"
+              className="text-white gap-1"
             >
               <Image src={searchIcon} alt="Белая лупа" />
               НАЙТИ

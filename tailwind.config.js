@@ -10,7 +10,7 @@ module.exports = {
     fontFamily: {
       text: "Microsoft Tai Le, sans-serif",
     },
-    extend: { 
+    extend: {
       colors: {
         "white-orange": "#FFC56D",
         "darker-orange": "#FFB443",
@@ -24,7 +24,7 @@ module.exports = {
       },
 
       backgroundImage: {
-        silver: 'url("/silver.png")',
+        silver: 'url("../images/bg/silver.png")',
       },
     },
   },
