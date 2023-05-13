@@ -1,13 +1,11 @@
-"use client";
-
 import HeaderLink from "../HeaderLink/HeaderLink";
 
-const HeaderNavList = ({ list }) => {
+const HeaderNavList = ({ list, close }) => {
   return (
     <>
       {list.map((item) => {
         return (
-          <HeaderLink href={item.link} key={item.name}>
+          <HeaderLink href={item.link} key={item.name} close={close}>
             {item.name}
           </HeaderLink>
         );

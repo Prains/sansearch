@@ -1,9 +1,9 @@
 import Logo from "../ui/Logo";
-import burgerMenu from "../../images/icons/menu.svg";
-import Image from "next/image";
-import Link from "next/link";
+import HeaderLoginButton from "./HeaderLoginButton/HeaderLoginButton";
 import links from "@/utils/links";
 import HeaderNavList from "./HeaderNavList/HeaderNavList";
+import HeaderBurger from "./HeaderBurger/HeaderBurger";
+import HeaderOpenBurgerButton from "./HeaderOpenBurgerButton/HeaderOpenBurgerButton";
 
 const Header = () => {
   const menuList = [
@@ -33,17 +33,8 @@ const Header = () => {
           <HeaderNavList list={menuList} />
         </ul>
       </nav>
-      <Image
-        src={burgerMenu}
-        alt="Бургер меню - три короткие черные черточки"
-        className="lg:hidden"
-      />
-      <Link
-        href={"/"}
-        className="bg-white-orange py-[11px] w-[120px] lg:flex items-center justify-center hidden hover:drop-shadow-roundedButton active:bg-darker-orange"
-      >
-        Войти
-      </Link>
+      <HeaderOpenBurgerButton list={menuList} />
+      <HeaderLoginButton href="/">Войти</HeaderLoginButton>
     </header>
   );
 };
