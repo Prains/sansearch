@@ -2,7 +2,6 @@ import Logo from "../ui/Logo";
 import HeaderLoginButton from "./HeaderLoginButton/HeaderLoginButton";
 import links from "@/utils/links";
 import HeaderNavList from "./HeaderNavList/HeaderNavList";
-import HeaderBurger from "./HeaderBurger/HeaderBurger";
 import HeaderOpenBurgerButton from "./HeaderOpenBurgerButton/HeaderOpenBurgerButton";
 
 const Header = () => {
