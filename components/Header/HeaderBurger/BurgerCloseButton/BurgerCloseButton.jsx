@@ -3,11 +3,12 @@
 import Image from "next/image";
 import { closeCross } from "@/images/icons";
 
-const BurgerCloseButton = ({ close }) => {
+const BurgerCloseButton = ({ close, className }) => {
   return (
     <Image
       src={closeCross}
       alt="Черный крестик"
+      className={className}
       onClick={() => {
         close();
       }}

@@ -1,44 +1,25 @@
 import Overlay from "@/components/ui/Overlay";
-import Link from "next/link";
-import LabelNInput from "./LabelNInput/LabelNInput";
+import LoginForm from "./LoginForm/LoginForm";
 import LoginLink from "./LoginLink/LoginLink";
+import BurgerCloseButton from "@/components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton";
 
-const LoginPopup = () => {
-  const inputList = [
-    {
-      label: "Почта:",
-      htmlType: "email",
-      placeholder: "Введите адрес эл.почты",
-    },
-    {
-      label: "Пароль:",
-      htmlType: "password",
-      placeholder: "Введите пароль",
-    },
-  ];
-
+const LoginPopup = ({ close }) => {
   return (
     <Overlay>
-      <div className="bg-white w-[300px] lg:w-[606px] flex-center rounded-3xl">
+      <div className="bg-white w-[300px] lg:w-[606px] flex-center rounded-3xl relative">
+        <BurgerCloseButton close={close} className="absolute top-3 right-3" />
         <article className="w-[256px] lg:w-[480px] flex-center-col my-[50px]">
-          <h4 className="mb-6">Вход</h4>
-          <form className="mb-[42px] flex-center-col gap-[17px] w-full">
-            {inputList.map((input) => {
-              return <LabelNInput {...input} key={input.label} />;
-            })}
-            <button className="bg-white-orange py-[8px] w-[160px] flex items-center justify-center hover:drop-shadow-roundedButton active:bg-darker-orange text-[20px] lg:text-[24px] lg:w-[318px]">
-              Войти
-            </button>
-            <div className="flex-center-col w-full gap-4">
-              <p className="text-[#939393] text-[12px]">
-                Не зарегистрированы или забыли пароль?
-              </p>
-              <div className="flex-center justify-between w-full">
-                <LoginLink href={"/"}>Регистрация</LoginLink>
-                <LoginLink href={"/"}>Забыл пароль</LoginLink>
-              </div>
+          <h4 className="mb-6 lg:text-[32px]">Вход</h4>
+          <LoginForm />
+          <div className="flex-center-col w-full gap-4">
+            <p className="text-[#7a6a6a] text-[12px] lg:text-[18px]">
+              Не зарегистрированы или забыли пароль?
+            </p>
+            <div className="flex-center justify-between w-full">
+              <LoginLink href={"/"}>Регистрация</LoginLink>
+              <LoginLink href={"/"}>Забыл пароль</LoginLink>
             </div>
-          </form>
+          </div>
         </article>
       </div>
     </Overlay>
