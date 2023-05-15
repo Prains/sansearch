@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import PaginationButton from "@/components/ui/Pagination/PaginationButton/PaginationButton";
 import { paginate } from "@/utils/paginate";
-import { useCheckDevice } from "@/hooks/useCheckDevice";
 
 import { arrowActiveSvg, arrowDisabledSvg } from "@/images/icons/arrows";
 
@@ -16,7 +15,6 @@ import { arrowActiveSvg, arrowDisabledSvg } from "@/images/icons/arrows";
 const Pagination = ({ documents, setSlicedDocuments }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const [documentsPerPage] = useState(10);
-  const device = useCheckDevice();
 
   const pageNumbers = [];
   const paginatePage = (pageNumber) => setCurrentPage(pageNumber);
@@ -38,7 +36,7 @@ const Pagination = ({ documents, setSlicedDocuments }) => {
   const renderPaginationButtons = () => {
     let pageNumbers = Array.from({ length: totalPage }, (_, i) => i + 1);
     if (totalPage > 7) {
-      const showingTrimPage = device === "mobile" ? 3 : 5;
+      const showingTrimPage = 5;
       if (currentPage <= showingTrimPage - 1) {
         pageNumbers = [
           ...pageNumbers.slice(0, showingTrimPage),

@@ -1,6 +1,6 @@
 export const fakedata = [];
 
-for (let i = 1; i <= 140; i++) {
+for (let i = 1; i <= 130; i++) {
   fakedata.push({
     type: "Russia",
     by: `${i} от ${i}.12.2000`,
