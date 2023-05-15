@@ -6,7 +6,7 @@ const PaginationButton = ({
   ...rest
 }) => {
   const classForButton = `flex items-center justify-center w-full h-full font-text text-[16px] leading-[20px] bg-white rounded-[2px] hover:border-[2px] hover:border-white-orange ${disabled &&
-    "hover:border-white"}  ${isCurrentPage &&
+    "hover:!border-white"}  ${isCurrentPage &&
     "bg-white-orange hover:!border-white-orange"}`;
 
   return (

@@ -6,6 +6,7 @@ import PaginationButton from "@/components/ui/Pagination/PaginationButton/Pagina
 import { paginate } from "@/utils/paginate";
 
 import { arrowActiveSvg, arrowDisabledSvg } from "@/images/icons/arrows";
+import { checkDevice } from "@/utils/checkDevice";
 
 /**
  * @param {Array<Object>}  documents - принимает массив документов.
@@ -36,7 +37,8 @@ const Pagination = ({ documents, setSlicedDocuments }) => {
   const renderPaginationButtons = () => {
     let pageNumbers = Array.from({ length: totalPage }, (_, i) => i + 1);
     if (totalPage > 7) {
-      const showingTrimPage = 5;
+      const device = checkDevice();
+      const showingTrimPage = device === "mobile" ? 3 : 5;
       if (currentPage <= showingTrimPage - 1) {
         pageNumbers = [
           ...pageNumbers.slice(0, showingTrimPage),

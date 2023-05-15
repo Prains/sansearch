@@ -1,8 +1,8 @@
 const links = {
   mainpage: "/",
-  sanctionsRussia: "/sanctions/Russia",
-  sanctionsUsa: "/sactions/USA",
-  sanctionsES: "/sanctions/ES",
+  sanctionsRussia: "/sanctions/russia",
+  sanctionsUsa: "/sanctions/usa",
+  sanctionsES: "/sanctions/eu",
   about: "/about",
   profile: "/profile",
   document: "/document",
