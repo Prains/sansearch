@@ -1,3 +1,5 @@
+"use client";
+
 export const checkDevice = () => {
   const width = window.innerWidth;
   if (width <= 768) {
