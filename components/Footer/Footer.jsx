@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <footer className="w-[88%] lg:w-[94%] my-0 mx-auto flex-items-center flex-col gap-[15px] lg:gap-5 mt-[30px] lg:mt-[57px] mb-2 lg:mb-7 ">
+    <footer className="w-[88%] lg:w-[94%] my-0 mx-auto flex-center-col gap-[15px] lg:gap-5 mt-[30px] lg:mt-[57px] mb-2 lg:mb-7 ">
       <Logo type="secondary" />
       <Button type="secondary" className="text-[#fff]">
         Войти
