@@ -4,9 +4,9 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import PaginationButton from "@/components/ui/Pagination/PaginationButton/PaginationButton";
 import { paginate } from "@/utils/paginate";
+import { useCheckDevice } from "@/hooks/useCheckDevice";
 
 import { arrowActiveSvg, arrowDisabledSvg } from "@/images/icons/arrows";
-import { checkDevice } from "@/utils/checkDevice";
 
 /**
  * @param {Array<Object>}  documents - принимает массив документов.
@@ -37,7 +37,7 @@ const Pagination = ({ documents, setSlicedDocuments }) => {
   const renderPaginationButtons = () => {
     let pageNumbers = Array.from({ length: totalPage }, (_, i) => i + 1);
     if (totalPage > 7) {
-      const device = checkDevice();
+      const device = useCheckDevice();
       const showingTrimPage = device === "mobile" ? 3 : 5;
       if (currentPage <= showingTrimPage - 1) {
         pageNumbers = [
