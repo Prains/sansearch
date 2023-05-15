@@ -6,3 +6,12 @@
   font-family: "Microsoft Tai Le";
   src: url("/Microsoft Tai Le.ttf") format("truetype");
 }
+
+@layer components {
+  .flex-center-col {
+    @apply flex items-center justify-center flex-col;
+  }
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+}

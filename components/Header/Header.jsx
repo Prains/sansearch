@@ -27,8 +27,8 @@ const Header = () => {
   return (
     <header className="w-[88%] my-0 mx-auto flex items-center justify-between mt-6 lg:w-[94%]">
       <Logo />
-      <nav className="w-2/4">
-        <ul className="hidden lg:flex items-center justify-between">
+      <nav className="w-2/4 hidden lg:block">
+        <ul className="flex items-center justify-between">
           <HeaderNavList list={menuList} />
         </ul>
       </nav>
