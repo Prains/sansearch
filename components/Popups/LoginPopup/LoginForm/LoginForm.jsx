@@ -30,7 +30,12 @@ const LoginForm = () => {
   return (
     <form className="mb-[42px] lg:mb-5 flex-center-col gap-[17px] lg:gap-6 w-full">
       {inputList.map((input) => {
-        return <LabelNInput {...input} key={input.label} />;
+        return (
+          <LabelNInput
+            {...input}
+            key={input.label}
+          />
+        );
       })}
       <button
         type="submit"
