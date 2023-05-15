@@ -1,4 +1,4 @@
-import SearchingDocumentItem from "./SearchingDocumentItem";
+import SearchingDocumentItem from "./SearchingDocumentItem/SearchingDocumentItem";
 
 const SearchingDocumentList = ({ slicedDocuments }) => {
   return (
