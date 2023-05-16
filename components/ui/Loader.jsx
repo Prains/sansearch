@@ -4,9 +4,12 @@ import { PulseLoader } from "react-spinners";
  * @param {number}  size - размер лоадера
  */
 
-const Loader = ({ size = 16, ...rest }) => {
+const Loader = ({ size = 16, className, ...rest }) => {
   return (
-    <div {...rest}>
+    <div
+      className={`w-full flex items-center justify-center ${className}`}
+      {...rest}
+    >
       <PulseLoader size={size} color="#FFC56D" />
     </div>
   );
