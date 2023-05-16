@@ -1,12 +1,25 @@
 "use client";
-import { useState } from "react";
+
+import { useState, useEffect } from "react";
 import Pagination from "../ui/Pagination/Pagination";
 import SearchingDocumentList from "./SearchingDocumentList/SearchingDocumentList";
-import { fakedata } from "@/utils/fakedata";
 
-const SearchPage = () => {
-  const [documents, setDocuments] = useState([...fakedata]);
+const SearchPage = ({ documents: serverDocuments }) => {
+  const [documents, setDocuments] = useState([]);
   const [slicedDocuments, setSlicedDocuments] = useState(documents);
+
+  useEffect(() => {
+    async function load() {
+      const resp = await fetch("https://jsonplaceholder.typicode.com/todos/");
+      const data = await resp.json();
+      setDocuments(data);
+    }
+
+    if (!serverDocuments) {
+      load();
+    }
+  }, []);
+
   return (
     <div className="w-[88%] mx-auto">
       <p className="text-[20px] mt-[-26px] mb-[20px] lg:mt-[-52px] lg:text-[28px]">
@@ -27,3 +40,18 @@ const SearchPage = () => {
 };
 
 export default SearchPage;
+
+SearchPage.getInitialProps = async ({ req }) => {
+  if (!req) {
+    return {
+      documents: null,
+    };
+  }
+
+  const resp = await fetch("https://jsonplaceholder.typicode.com/todos/");
+  const documents = await resp.json();
+
+  return {
+    documents,
+  };
+};
