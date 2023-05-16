@@ -13,7 +13,7 @@ const DocumentBody = ({ document }) => {
         <Link
           href={`https://jsonplaceholder.typicode.com/todos/${document.id}`}
           target="_blank"
-          className="block flex items-center justify-center text-[20px] w-[280px] h-[40px] mx-auto text-white-orange border-[1px] border-white-orange lg:text-[24px] lg:w-[450px] lg:h-[50px]"
+          className="flex items-center justify-center text-[20px] w-[280px] h-[40px] mx-auto text-white-orange border-[1px] border-white-orange lg:text-[24px] lg:w-[450px] lg:h-[50px]"
         >
           Посмотреть документ
         </Link>
