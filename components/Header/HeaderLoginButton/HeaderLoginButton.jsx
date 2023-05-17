@@ -1,13 +1,12 @@
 "use client";
-import { useState } from "react";
 import Link from "next/link";
+import links from "@/utils/links";
 
-const HeaderLoginButton = ({ children, href, burger, close }) => {
-  const [loginVisibility, setLoginVisibility] = useState(false);
+const HeaderLoginButton = ({ children, burger, close }) => {
   return (
     <>
       <Link
-        href={href}
+        href={links.login}
         className={`bg-white-orange py-[11px] w-[120px] lg:flex items-center justify-center ${
           burger ? "flex" : "hidden"
         } hover:drop-shadow-roundedButton active:bg-darker-orange`}

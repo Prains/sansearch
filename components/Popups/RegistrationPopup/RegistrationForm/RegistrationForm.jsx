@@ -30,8 +30,8 @@ const RegistrationForm = () => {
       value: surname,
     },
     {
-      label: "Имя",
-      htmlType: "name",
+      label: "Почта:",
+      htmlType: "email",
       placeholder: "Введите адрес эл.почты",
       onChange: (e) => {
         emailChange(e);

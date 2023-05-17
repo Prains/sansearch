@@ -9,7 +9,7 @@ const HeaderBurger = ({ close, list }) => {
     <HeaderBurgerWrapper>
       <div className="w-[88%] flex items-center justify-center flex-col my-[25px] mx-auto gap-20">
         <article className="flex items-center justify-between w-full">
-          <Logo />
+          <Logo close={close} />
           <BurgerCloseButton close={close} />
         </article>
         <ul className="flex items-center justify-center flex-col gap-10">

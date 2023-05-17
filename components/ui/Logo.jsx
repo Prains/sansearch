@@ -1,3 +1,4 @@
+'use client'
 import Image from "next/image";
 import {
   footerDesktop,
@@ -7,10 +8,17 @@ import {
 } from "@/images/icons/logo";
 import Link from "next/link";
 
-const Logo = ({ type = "primary", href = "/" }) => {
+const Logo = ({ type = "primary", href = "/", close }) => {
   if (type === "secondary") {
     return (
-      <Link href={href}>
+      <Link
+        href={href}
+        onClick={() => {
+          if (close) {
+            close();
+          }
+        }}
+      >
         <Image
           src={footerMobile}
           className="md:hidden"
@@ -26,7 +34,14 @@ const Logo = ({ type = "primary", href = "/" }) => {
   }
 
   return (
-    <Link href={href}>
+    <Link
+      href={href}
+      onClick={() => {
+        if (close) {
+          close();
+        }
+      }}
+    >
       <Image
         src={headerMobile}
         className="md:hidden"

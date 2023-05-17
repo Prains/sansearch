@@ -1,6 +1,7 @@
 import Overlay from "@/components/ui/Overlay";
 import RegistrationForm from "./RegistrationForm/RegistrationForm";
 import LoginLink from "../LoginPopup/LoginLink/LoginLink";
+import links from "@/utils/links";
 
 const RegistrationPopup = () => {
   return (
@@ -9,7 +10,7 @@ const RegistrationPopup = () => {
         <article className="w-[256px] lg:w-[480px] flex-center-col my-[30px]">
           <h4 className="mb-6 text-2xl lg:text-[32px] lg:mb-12">Регистрация</h4>
           <RegistrationForm />
-          <LoginLink href={"/"}>Забыли пароль?</LoginLink>
+          <LoginLink href={links.forgotPassword}>Забыли пароль?</LoginLink>
         </article>
       </div>
     </Overlay>
