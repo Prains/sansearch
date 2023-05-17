@@ -7,7 +7,7 @@ const HeaderLoginButton = ({ children, href, burger, close }) => {
   return (
     <>
       <Link
-        href={href}
+        href={'/login'}
         className={`bg-white-orange py-[11px] w-[120px] lg:flex items-center justify-center ${
           burger ? "flex" : "hidden"
         } hover:drop-shadow-roundedButton active:bg-darker-orange`}
