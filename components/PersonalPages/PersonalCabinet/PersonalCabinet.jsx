@@ -1,9 +1,9 @@
-import PersonalTitle from "@/components/ui/PersonalTitle";
+import PersonalTitle from "@/components/ui/PersonalPage/PersonalTitle";
 import { background } from "@/images/PersonalPages";
-import PersonalData from "./PersonalData/PersonalData";
+import PersonalProfile from "./PersonalProfile/PersonalProfile";
 import PersonalSubscription from "./PersonalSubscription/PersonalSubscription";
 
-const PersonalDataAndSubscription = () => {
+const PersonalCabinet = () => {
     return (
         <section className="text-center w-full mx-auto">
             <PersonalTitle className="mb-[15px] mt-[15px] lg:mb-[30px] lg:mt-[30px]">Личный кабинет</PersonalTitle>
@@ -14,10 +14,10 @@ const PersonalDataAndSubscription = () => {
                     backgroundRepeat: "no-repeat",
                     backgroundSize: "cover",
                 }}>
-                    <PersonalData/>
+                    <PersonalProfile/>
                     <PersonalSubscription/>
             </article>
         </section>
     );
 }
-export default PersonalDataAndSubscription;
+export default PersonalCabinet;

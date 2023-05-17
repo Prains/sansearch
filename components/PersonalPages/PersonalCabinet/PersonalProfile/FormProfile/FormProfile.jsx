@@ -3,8 +3,16 @@ import Button from "@/components/ui/Button";
 
 import { avatar } from "@/images/PersonalPages";
 import { useForm } from "react-hook-form";
+// import { useState } from "react";
 
 const FormProfile = () => {
+    // const [isAddButtons, setIsAddButtons] = useState(false);
+
+    // const handleClickCorrectData = () => {
+    //     setIsAddButtons((isAddButtons) => !isAddButtons)
+
+    // }
+
     const users = [
         {
             id: 0,

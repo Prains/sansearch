@@ -1,7 +1,7 @@
-import PersonalSubtitle from "@/components/ui/PersonalSubtitle";
+import PersonalSubtitle from "@/components/ui/PersonalPage/PersonalSubtitle";
 import FormProfile from "./FormProfile/FormProfile";
 
-const PersonalData = () => {
+const PersonalProfile = () => {
     return (
         <article className="text-center w-[280px] mx-auto border-white-black lg:border-r lg:mx-0 lg:w-[460px]">
             <div className="lg:w-[416px]">
@@ -11,4 +11,4 @@ const PersonalData = () => {
         </article>
     )
 }
-export default PersonalData;
+export default PersonalProfile;
