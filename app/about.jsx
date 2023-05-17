@@ -1,5 +1,5 @@
 const About = () => {
-    return null;
-}
- 
+  return null;
+};
+
 export default About;

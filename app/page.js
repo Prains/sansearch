@@ -1,5 +1,5 @@
 import Advantage from "@/components/MainPage/Advantage/Advantage";
-import Main from "@/components/MainPage/Main/Main";
+import Main from "@/components/Main/Main";
 import Valueables from "@/components/MainPage/Valueables/Valueables";
 
 export default function Home() {

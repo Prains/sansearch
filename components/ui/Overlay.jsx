@@ -9,9 +9,9 @@ const Overlay = ({ children }) => {
   }, []);
 
   return (
-    <div className="fixed top-0 left-0 right-0 flex items-center justify-center w-full h-full bg-[#939393]/60">
+    <section className="fixed top-0 left-0 right-0 flex items-center justify-center w-full h-full bg-[#939393]/60 z-50">
       {children}
-    </div>
+    </section>
   );
 };
 
