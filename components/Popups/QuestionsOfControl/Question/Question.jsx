@@ -15,7 +15,6 @@ const Question = ({
   currentQuestion,
 }) => {
   const [value, setValue] = useState("");
-  // const currentQuestion = questions[numberOfCurrentQuestion - 1];
 
   const handleClickNextQuestion = () => {
     setAnswers((prevAnswers) => [...prevAnswers, value]);
