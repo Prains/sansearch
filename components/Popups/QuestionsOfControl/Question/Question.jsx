@@ -6,10 +6,16 @@ import QuestionProgressBar from "./QuestionProgressBar/QuestionProgressBar";
 import QuestionRadioButtons from "./QuestionRadioButtons/QuestionRadioButtons";
 import QuestionText from "./QuestionText/QuestionText";
 
-const Question = ({ questions, setAnswers, setIsFinished }) => {
-  const [numberOfCurrentQuestion, setNumberOfCurrentQuestion] = useState(1);
+const Question = ({
+  questions,
+  setAnswers,
+  setIsFinished,
+  numberOfCurrentQuestion,
+  setNumberOfCurrentQuestion,
+  currentQuestion,
+}) => {
   const [value, setValue] = useState("");
-  const currentQuestion = questions[numberOfCurrentQuestion - 1];
+  // const currentQuestion = questions[numberOfCurrentQuestion - 1];
 
   const handleClickNextQuestion = () => {
     setAnswers((prevAnswers) => [...prevAnswers, value]);
@@ -42,8 +48,10 @@ const Question = ({ questions, setAnswers, setIsFinished }) => {
 
   return (
     <div>
-      <div className="flex flex-wrap mb-[30px]">
-        <QuestionText question={currentQuestion.question} />
+      <div className="flex flex-wrap mb-[30px] md:mb-0">
+        <div className="hidden order-1 max-h-[100px] overflow-scroll md:order-2 md:flex">
+          <QuestionText question={currentQuestion.question} />
+        </div>
         <QuestionRadioButtons
           answers={currentQuestion.answers}
           value={value}
@@ -55,7 +63,7 @@ const Question = ({ questions, setAnswers, setIsFinished }) => {
         />
       </div>
 
-      <div className="flex flex-col items-center lg:flex-row-reverse lg:justify-between">
+      <div className="flex flex-col items-center md:flex-row-reverse md:justify-between">
         <Button
           type="long-fill"
           onClick={handleClickNextQuestion}
