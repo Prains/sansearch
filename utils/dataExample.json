@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "Резюме",
+        "description": "Резюме сереги с хх",
+        "createdAt": "2023-05-18T12:45:30.551Z",
+        "updatedAt": "2023-05-18T13:27:07.417Z",
+        "publishedAt": "2023-05-18T12:45:31.710Z",
+        "type": "ru"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 1 }
+  }
+}
