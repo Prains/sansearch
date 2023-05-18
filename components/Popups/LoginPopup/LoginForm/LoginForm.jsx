@@ -1,6 +1,7 @@
 "use client";
 import useInput from "@/hooks/useInput";
 import LabelNInput from "../LabelNInput/LabelNInput";
+import auth from "@/utils/auth";
 
 const LoginForm = () => {
   const [email, emailChange] = useInput("");
@@ -28,14 +29,15 @@ const LoginForm = () => {
   ];
 
   return (
-    <form className="mb-[42px] lg:mb-5 flex-center-col gap-[17px] lg:gap-6 w-full">
+    <form
+      className="mb-[42px] lg:mb-5 flex-center-col gap-[17px] lg:gap-6 w-full"
+      onSubmit={(e) => {
+        e.preventDefault();
+        auth.login(email, password);
+      }}
+    >
       {inputList.map((input) => {
-        return (
-          <LabelNInput
-            {...input}
-            key={input.label}
-          />
-        );
+        return <LabelNInput {...input} key={input.label} />;
       })}
       <button
         type="submit"
