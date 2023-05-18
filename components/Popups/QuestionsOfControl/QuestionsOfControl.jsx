@@ -21,7 +21,7 @@ const QuestionsOfControl = () => {
     <Overlay>
       <div
         className={`relative ${isFinished &&
-          "overflow-scroll !h-auto"} !h-auto flex-center w-[94%] h-[600px] max-h-[90%] mx-[10px] rounded-3xl bg-white md:h-auto md:overflow-scroll lg:mx-[122px] lg:max-w-[1020px]`}
+          "overflow-y-auto !h-auto"} !h-auto flex-center w-[94%] h-[600px] max-h-[90%] rounded-3xl bg-white md:h-auto md:overflow-y-auto lg:mx-[122px] lg:max-w-[1020px]`}
       >
         <article
           className={`flex flex-col items-center ${
@@ -33,7 +33,7 @@ const QuestionsOfControl = () => {
           </h4>
           <div
             className={`${!isFinished &&
-              "overflow-scroll  h-auto max-h-[300px] mb-[10px]  md:h-auto md:max-h-[150px] md:overflow-hidden"}`}
+              "overflow-y-auto  h-auto max-h-[300px] mb-[10px]  md:h-auto md:max-h-[150px] md:overflow-hidden"}`}
           >
             {!isFinished && (
               <>
