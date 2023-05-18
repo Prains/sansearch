@@ -5,6 +5,8 @@ import Button from "@/components/ui/Button";
 import { avatar } from "@/images/PersonalPages";
 import useInput from "@/hooks/useInput";
 import LabelInput from "./LabelInput/LabelInput";
+import { useState } from "react";
+import Buttons from "@/components/ui/PersonalPage/Buttons";
 
 
 const FormProfile = () => {
@@ -16,6 +18,11 @@ const FormProfile = () => {
     const [newPassword, newPasswordChange] = useInput("");
     const [company, companyChange] = useInput("");
 
+    const [isAddButtons, isSetAddButtons] = useState(false);
+
+    const handleClickAddButtons = () => {
+        isSetAddButtons((isAddButtons) => (!isAddButtons))
+    }
     const users = [
         {
             id: 0,
@@ -102,6 +109,7 @@ const FormProfile = () => {
                     <LabelInput
                         {...input}
                         key={input.label}
+                        isAddButtons={isAddButtons}
                     />
                     );
                 })}
@@ -113,7 +121,14 @@ const FormProfile = () => {
                 )}
             </div>
             <div className="mt-[30px]">
-                <Button type="secondary" className="mx-auto text-full-white h-[45px] lg:w-[416px]">Изменить данные</Button>
+                {isAddButtons ? (
+                <div>
+                    <Buttons type="orange" onClick={handleClickAddButtons}>Сохранить изменения</Buttons>
+                    <Buttons type="grey">Удалить аккаунт</Buttons>
+                </div>
+                    ) : (
+                    <Button type="secondary" className="mx-auto text-full-white h-[45px] lg:w-[416px]" onClick={handleClickAddButtons}>Изменить данные</Button>
+                )}
             </div>
         </form>
     )
