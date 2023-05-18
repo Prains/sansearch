@@ -21,25 +21,28 @@ const QuestionsOfControl = () => {
     <Overlay>
       <div
         className={`relative ${isFinished &&
-          "overflow-scroll"} flex-center w-full h-[80%] max-h-[550px] mx-[10px] rounded-3xl bg-white md:h-auto lg:mx-[122px] lg:max-w-[1020px]`}
+          "overflow-scroll !h-auto"} flex-center w-[94%] h-[600px] max-h-[90%] mx-[10px] rounded-3xl bg-white md:h-auto md:overflow-scroll lg:mx-[122px] lg:max-w-[1020px]`}
       >
-        <article className="flex flex-col items-center mt-[30px] mx-[20px] h-full mb-[30px]">
-          <h4 className="text-[20px] mb-[20px] mt-[20px] text-center lg:text-[26px]">
+        <article
+          className={`flex flex-col items-center ${
+            isFinished ? "h-auto" : "h-full"
+          }   mx-[20px]`}
+        >
+          <h4 className="text-[20px] mb-[18px] mt-[18px] text-center lg:text-[26px]">
             Определение контроля
           </h4>
           <div
             className={`${!isFinished &&
-              "overflow-scroll  h-[40%] md:max-h-[100px]"}`}
+              "overflow-scroll  h-[50%] mb-[10px] md:h-auto md:max-h-[150px] md:overflow-hidden"}`}
           >
-            <QuestionInfoText>
-              Законодательство ЕС предусматривает применение санкций к
-              юридическим лицам, которые не включены в санкционные списки
-              (non-listed persons), но которые подконтрольны подсанкционным
-              лицам (listed persons).
-            </QuestionInfoText>
-
             {!isFinished && (
               <>
+                <QuestionInfoText>
+                  Законодательство ЕС предусматривает применение санкций к
+                  юридическим лицам, которые не включены в санкционные списки
+                  (non-listed persons), но которые подконтрольны подсанкционным
+                  лицам (listed persons).
+                </QuestionInfoText>
                 <QuestionInfoText>
                   Ниже представлены вопросы, которые помогут определить наличие
                   контроля со стороны подсанкционных лиц в отношении
@@ -51,6 +54,7 @@ const QuestionsOfControl = () => {
               </>
             )}
           </div>
+
           {!isFinished && (
             <Question
               questions={questions}

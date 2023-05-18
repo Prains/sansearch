@@ -49,7 +49,7 @@ const Question = ({
   return (
     <div>
       <div className="flex flex-wrap mb-[30px] md:mb-0">
-        <div className="hidden order-1 max-h-[100px] overflow-scroll md:order-2 md:flex">
+        <div className="hidden order-1 overflow-scroll md:order-2 md:flex md:h-auto">
           <QuestionText question={currentQuestion.question} />
         </div>
         <QuestionRadioButtons

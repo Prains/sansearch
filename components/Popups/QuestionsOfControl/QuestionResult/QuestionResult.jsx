@@ -29,7 +29,7 @@ const QuestionResult = ({ answers }) => {
         </Link>{" "}
         (стр. 20 – 21).{" "}
       </p>
-      <p className="text-[16px] text-white-black text-center lg:text-[18px] lg:mr-auto lg:text-start">
+      <p className="text-[16px] text-white-black text-center mb-[10px] lg:text-[18px] lg:mr-auto lg:text-start">
         Дополнительно см. актуальную версию{" "}
         <Link
           href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02001R2580-20220413"
