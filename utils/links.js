@@ -11,6 +11,7 @@ const links = {
   registration: "/register",
   forgotPassword: "/reset-password",
   accessError: "/access-error",
+  controlTest: "/control-test",
 };
 
 export default links;
