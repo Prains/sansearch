@@ -1,17 +1,20 @@
+"use client";
 import Image from "next/image";
 import Button from "@/components/ui/Button";
 
 import { avatar } from "@/images/PersonalPages";
-import { useForm } from "react-hook-form";
-// import { useState } from "react";
+import useInput from "@/hooks/useInput";
+import LabelInput from "./LabelInput/LabelInput";
+
 
 const FormProfile = () => {
-    // const [isAddButtons, setIsAddButtons] = useState(false);
 
-    // const handleClickCorrectData = () => {
-    //     setIsAddButtons((isAddButtons) => !isAddButtons)
-
-    // }
+    const [name, nameChange] = useInput("");
+    const [surname, surnameChange] = useInput("");
+    const [email, emailChange] = useInput("");
+    const [password, passwordChange] = useInput("");
+    const [newPassword, newPasswordChange] = useInput("");
+    const [company, companyChange] = useInput("");
 
     const users = [
         {
@@ -21,19 +24,68 @@ const FormProfile = () => {
             surname: "Иванченко",
             email: "sansearch@yandex.ru",
             password: "123456",
-            newPassword: "222222",
+            newPassword: "",
             company: "SanSearch",
             subscription: true
         }
     ]
 
-    const labelInput = [
-        "Имя:",
-        "Фамилия:",
-        "Почта:",
-        "Пароль:",
-        "Компания:",
-        "Подписка:"
+    const inputInfo = [
+        {
+            label: "Имя:",
+            htmlType: "name",
+            placeholder: "Введите ваше имя",
+            defaultValue: users[0].name,
+            onChange: (e) => {
+                nameChange(e);
+            },
+        },
+        {
+            label: "Фамилия:",
+            htmlType: "text",
+            placeholder: "Введите вашу фамилию",
+            defaultValue: users[0].surname,
+            onChange: (e) => {
+                surnameChange(e);
+            },
+        },
+        {
+            label: "Почта:",
+            htmlType: "email",
+            placeholder: "Введите ваш email",
+            defaultValue: users[0].email,
+            onChange: (e) => {
+                emailChange(e);
+            },
+        },
+        {
+            label: "Пароль:",
+            htmlType: "password",
+            placeholder: "Введите ваш пароль",
+            defaultValue: users[0].password,
+            onChange: (e) => {
+                passwordChange(e);
+            },
+        },
+        {
+            label: "Новый пароль:",
+            htmlType: "text",
+            placeholder: "Введите новый пароль",
+            defaultValue: users[0].newPassword,
+            onChange: (e) => {
+                newPasswordChange(e);
+            },
+        },
+        {
+            label: "Компания:",
+            htmlType: "text",
+            placeholder: "Введите вашу компанию",
+            defaultValue: users[0].company,
+            onChange: (e) => {
+                companyChange(e);
+            },
+        },
+
     ]
 
     return (
@@ -45,48 +97,20 @@ const FormProfile = () => {
                 alt="Фотография пользователя"
             />
             <div className="w-[270px] max-h-[600px] mx-auto text-left lg:w-[416px]">
-                <label className="text-[22px] lg:inline-block lg:w-[120px]">{labelInput[0]}</label>
-                <input 
-                    disabled 
-                    defaultValue={users[0].name} 
-                    type="text" 
-                    placeholder="Введите ваше имя"
-                    className="border ml-[25px] w-[242px] mb-[22px] h-[45px] pl-2 py-2 lg:w-[270px] lg:py-0"
-                />
-                <label className="text-[22px] lg:inline-block lg:w-[120px]">{labelInput[1]}</label>
-                <input 
-                    disabled 
-                    defaultValue={users[0].surname} 
-                    type="text" 
-                    placeholder="Введите вашу фамилию"
-                    className="border ml-[25px] w-[242px] h-[45px] mb-[22px] pl-2 py-2 lg:w-[270px] lg:py-0"
-                />
-                <label className="text-[22px] lg:inline-block lg:w-[120px]">{labelInput[2]}</label>
-                <input 
-                    disabled 
-                    defaultValue={users[0].email} 
-                    type="email" 
-                    placeholder="Введите вашу электронную почту"
-                    className="border ml-[25px] w-[242px] h-[45px] pl-2 py-2 mb-[22px] lg:w-[270px] lg:py-0"
-                />
-                <label className="text-[22px] lg:inline-block lg:w-[120px]">{labelInput[3]}</label>
-                <input 
-                    disabled 
-                    defaultValue={users[0].password} 
-                    type="password" 
-                    placeholder="Введите пароль"
-                    className="border ml-[25px] w-[242px] h-[45px] pl-2 py-2 mb-[22px] lg:w-[270px] lg:py-0"
-                />
-                <label className="text-[22px] lg:inline-block lg:w-[120px]">{labelInput[4]}</label>
-                <input 
-                    disabled 
-                    defaultValue={users[0].company} 
-                    type="text" 
-                    placeholder="Введите название вашей компании"
-                    className="border ml-[25px] w-[242px] h-[45px] pl-2 py-2 mb-[22px] lg:w-[270px] lg:py-0"
-                />
-                <label className="text-[22px] mr-1 lg:inline-block lg:w-[150px]">{labelInput[5]}</label>
-                <span className="text-[#69D443]">Есть</span>
+                {inputInfo.map((input) => {
+                    return (
+                    <LabelInput
+                        {...input}
+                        key={input.label}
+                    />
+                    );
+                })}
+                <label className="text-[22px] mr-1 lg:inline-block lg:w-[178px]">Подписка:</label>
+                {users[0].subscription ? (
+                    <span className="text-[20px] text-[#69D443]">Есть</span>
+                    ) : (
+                    <span className="text-[20px] text-white-black">Нет</span>
+                )}
             </div>
             <div className="mt-[30px]">
                 <Button type="secondary" className="mx-auto text-full-white h-[45px] lg:w-[416px]">Изменить данные</Button>
