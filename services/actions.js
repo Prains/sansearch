@@ -6,7 +6,12 @@ export const fetchCurrentUser = createAsyncThunk(
   async () => {
     try {
       const responce = await auth.checkUser();
+      if (responce.error) {
+        return null;
+      }
       return responce;
-    } catch (error) {}
+    } catch (error) {
+      return null;
+    }
   }
 );

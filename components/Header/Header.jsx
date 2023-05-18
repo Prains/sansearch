@@ -4,8 +4,6 @@ import links from "@/utils/links";
 import HeaderNavList from "./HeaderNavList/HeaderNavList";
 import HeaderOpenBurgerButton from "./HeaderOpenBurgerButton/HeaderOpenBurgerButton";
 
-// TODO - dispatch after reg and login, conditional header if auth
-
 const Header = () => {
   const menuList = [
     {

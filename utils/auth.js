@@ -16,11 +16,7 @@ class Auth {
         email: email,
         password: password,
       }),
-    })
-      .then((res) => res.json())
-      .then((res) => {
-        token.setAccessToken(res.jwt);
-      });
+    }).then((res) => res.json());
   }
   login(email, password) {
     return fetch(`${links.backend}/api/auth/local`, {
@@ -30,12 +26,7 @@ class Auth {
         identifier: email,
         password: password,
       }),
-    })
-      .then((res) => res.json())
-      .then((res) => {
-        console.log(res);
-        token.setAccessToken(res.jwt);
-      });
+    }).then((res) => res.json());
   }
   checkUser() {
     const access = token.getAccesToken();

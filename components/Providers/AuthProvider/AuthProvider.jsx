@@ -2,10 +2,11 @@
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchCurrentUser } from "@/services/actions";
+import token from "@/utils/token";
 
 const AuthProvider = ({ children }) => {
   const dispatch = useDispatch();
-  const { status } = useSelector((state) => state.user);
+  const { status, user } = useSelector((state) => state.user);
 
   useEffect(() => {
     dispatch(fetchCurrentUser());
