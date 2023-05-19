@@ -14,12 +14,6 @@ const SearchingDocumentItem = ({ document }) => {
           </strong>
         )}
 
-        {document?.attributes?.createdAt && (
-          <p className="inline text-[14px] lg:text-[20px]">
-            {document.attributes.createdAt}
-          </p>
-        )}
-
         {document?.attributes?.description && (
           <p className="inline ml-[10px] text-[14px] lg:text-[20px]">
             {document.attributes.description}

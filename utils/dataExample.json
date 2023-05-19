@@ -1,4 +1,4 @@
-{
+({
   "data": [
     {
       "id": 1,
@@ -15,4 +15,41 @@
   "meta": {
     "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 1 }
   }
-}
+},
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "title": "Резюме",
+      "description": "Резюме сереги с хх",
+      "createdAt": "2023-05-18T12:45:30.551Z",
+      "updatedAt": "2023-05-18T13:27:07.417Z",
+      "publishedAt": "2023-05-18T12:45:31.710Z",
+      "type": "ru",
+      "documentFile": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Лесков Сергей (1) (1).pdf",
+            "alternativeText": null,
+            "caption": null,
+            "width": null,
+            "height": null,
+            "formats": null,
+            "hash": "Leskov_Sergej_1_1_5c842cb692",
+            "ext": ".pdf",
+            "mime": "application/pdf",
+            "size": 41.09,
+            "url": "/uploads/Leskov_Sergej_1_1_5c842cb692.pdf",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-18T12:44:53.192Z",
+            "updatedAt": "2023-05-18T12:45:19.476Z"
+          }
+        }
+      }
+    }
+  },
+  "meta": {}
+})
