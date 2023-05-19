@@ -3,12 +3,18 @@ import useInput from "@/hooks/useInput";
 import LabelNInput from "../../LoginPopup/LabelNInput/LabelNInput";
 import Link from "next/link";
 import links from "@/utils/links";
+import auth from "@/utils/auth";
+import { useDispatch } from "react-redux";
+import { setUser } from "@/services/reducers/User";
+import token from "@/utils/token";
+import { useRouter } from "next/navigation";
 
 const RegistrationForm = () => {
   const [name, nameChange] = useInput("");
-  const [surname, surnameChange] = useInput("");
   const [email, emailChange] = useInput("");
   const [password, passwordChange] = useInput("");
+  const dispatch = useDispatch();
+  const router = useRouter();
 
   const inputList = [
     {
@@ -19,15 +25,6 @@ const RegistrationForm = () => {
         nameChange(e);
       },
       value: name,
-    },
-    {
-      label: "Фамилия:",
-      htmlType: "text",
-      placeholder: "Введите вашу Фамилию",
-      onChange: (e) => {
-        surnameChange(e);
-      },
-      value: surname,
     },
     {
       label: "Почта:",
@@ -50,7 +47,17 @@ const RegistrationForm = () => {
   ];
 
   return (
-    <form className="mb-[42px] lg:mb-5 flex-center-col gap-[17px] lg:gap-6 w-full">
+    <form
+      className="mb-[42px] lg:mb-5 flex-center-col gap-[17px] lg:gap-6 w-full"
+      onSubmit={(e) => {
+        e.preventDefault();
+        auth.register(name, email, password).then((res) => {
+          token.setAccessToken(res.jwt);
+          dispatch(setUser(res.user));
+          router.push(links.profile);
+        });
+      }}
+    >
       {inputList.map((input) => {
         return (
           <LabelNInput

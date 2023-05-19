@@ -1,10 +1,18 @@
 "use client";
 import useInput from "@/hooks/useInput";
 import LabelNInput from "../LabelNInput/LabelNInput";
+import auth from "@/utils/auth";
+import token from "@/utils/token";
+import links from "@/utils/links";
+import { useRouter } from "next/navigation";
+import { useDispatch } from "react-redux";
+import { setUser } from "@/services/reducers/User";
 
 const LoginForm = () => {
   const [email, emailChange] = useInput("");
   const [password, passwordChange] = useInput("");
+  const router = useRouter();
+  const dispatch = useDispatch();
 
   const inputList = [
     {
@@ -28,14 +36,19 @@ const LoginForm = () => {
   ];
 
   return (
-    <form className="mb-[42px] lg:mb-5 flex-center-col gap-[17px] lg:gap-6 w-full">
+    <form
+      className="mb-[42px] lg:mb-5 flex-center-col gap-[17px] lg:gap-6 w-full"
+      onSubmit={(e) => {
+        e.preventDefault();
+        auth.login(email, password).then((res) => {
+          token.setAccessToken(res.jwt);
+          dispatch(setUser(res.user));
+          router.push(links.profile);
+        });
+      }}
+    >
       {inputList.map((input) => {
-        return (
-          <LabelNInput
-            {...input}
-            key={input.label}
-          />
-        );
+        return <LabelNInput {...input} key={input.label} />;
       })}
       <button
         type="submit"

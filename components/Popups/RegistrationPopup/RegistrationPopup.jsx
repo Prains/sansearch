@@ -11,6 +11,7 @@ const RegistrationPopup = () => {
           <h4 className="mb-6 text-2xl lg:text-[32px] lg:mb-12">Регистрация</h4>
           <RegistrationForm />
           <LoginLink href={links.forgotPassword}>Забыли пароль?</LoginLink>
+          <LoginLink href={links.login}>Войти с логином и паролем</LoginLink>
         </article>
       </div>
     </Overlay>
