@@ -1,4 +1,4 @@
-import PersonalSubtitle from "@/components/ui/PersonalPage/PersonalSubtitle";
+import PersonalSubtitle from "@/components/PersonalPages/PersonalSubtitle";
 import Button from "@/components/ui/Button";
 
 const PersonalSubscription = () => {

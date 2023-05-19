@@ -1,3 +1,5 @@
+import PersonalSubtitle from "../../PersonalSubtitle";
+
 const Checks = () => {
     return (
         <article>

@@ -1,12 +1,12 @@
 "use client";
 import Image from "next/image";
-import Button from "@/components/ui/Button";
-
 import { avatar } from "@/images/PersonalPages";
+import Button from "@/components/ui/Button";
+import Buttons from "@/components/PersonalPages/Buttons";
+
 import useInput from "@/hooks/useInput";
 import LabelInput from "./LabelInput/LabelInput";
 import { useState } from "react";
-import Buttons from "@/components/ui/PersonalPage/Buttons";
 
 
 const FormProfile = () => {

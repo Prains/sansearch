@@ -1,4 +1,4 @@
-import PersonalTitle from "@/components/ui/PersonalPage/PersonalTitle";
+import PersonalTitle from "@/components/PersonalPages/PersonalTitle";
 import { background } from "@/images/PersonalPages";
 import PersonalProfile from "./PersonalProfile/PersonalProfile";
 import PersonalSubscription from "./PersonalSubscription/PersonalSubscription";

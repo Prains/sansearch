@@ -5,7 +5,7 @@ const Buttons = ({
   onClick,
   className,
   htmlType = "button",
-  type = "primary",
+  type = "orange",
   disabled,
   required,
 }) => {
@@ -28,7 +28,8 @@ const Buttons = ({
     return (
       <button
         className={
-            "bg-full-white flex items-center text-[20px] justify-center border border-white-black text-white-black h-[45px] mb-[15px] lg:w-[416px] w-[280px] lg:h-[60px] active:bg-full-black hover:bg-white-black hover:text-full-white" +             ` ${className}`
+            "bg-full-white flex items-center text-[20px] justify-center border border-white-black text-white-black h-[45px] mb-[15px] lg:w-[416px] w-[280px] lg:h-[60px] active:bg-full-black hover:bg-white-black hover:text-full-white" + 
+            ` ${className}`
         }
         type={htmlType}
         onClick={onClick}

@@ -1,6 +1,6 @@
 import AvailableDocuments from "./AvailableDocuments/AvailableDocuments";
 import Checks from "./Checks/Cheks";
-
+import PersonalTitle from "../PersonalTitle";
 const MyDocument = () => {
     return (
         <section>
