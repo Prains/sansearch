@@ -8,11 +8,17 @@ const SearchingDocumentItem = ({ document }) => {
         href={links.document + "/" + document.id}
         className="line-clamp-4 lg:line-clamp-2"
       >
-        <strong className="text-[14px] lg:text-[20px]">{document.type}</strong>{" "}
-        <p className="inline text-[14px] lg:text-[20px]">{document.by}</p>
-        <p className="inline ml-[10px] text-[14px] lg:text-[20px]">
-          {document.title}
-        </p>
+        {document?.attributes?.title && (
+          <strong className="text-[14px] lg:text-[20px]">
+            {document.attributes.title}
+          </strong>
+        )}
+
+        {document?.attributes?.description && (
+          <p className="inline ml-[10px] text-[14px] lg:text-[20px]">
+            {document.attributes.description}
+          </p>
+        )}
       </Link>
     </li>
   );

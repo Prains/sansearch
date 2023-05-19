@@ -12,6 +12,7 @@ const links = {
   forgotPassword: "/reset-password",
   accessError: "/access-error",
   backend: "http://45.91.8.76:1337",
+  controlTest: "/control-test",
 };
 
 export default links;

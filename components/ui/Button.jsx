@@ -8,6 +8,7 @@ const Button = ({
   type = "primary",
   disabled,
   required,
+  ...rest
 }) => {
   if (type === "secondary") {
     return (
@@ -34,6 +35,31 @@ const Button = ({
         type={htmlType}
         onClick={onClick}
         required
+      >
+        {children}
+      </button>
+    );
+  }
+
+  if (type === "long") {
+    return (
+      <button
+        onClick={onClick}
+        className="text-[20px] w-[280px] h-[44px] mb-[16px] text-white-orange bg-white border-[1px] border-white-orange text-white md:rounded-[5px] xl:w-[416px]"
+        {...rest}
+      >
+        {children}
+      </button>
+    );
+  }
+
+  if (type === "long-fill") {
+    return (
+      <button
+        onClick={onClick}
+        className="text-[20px] w-[280px] h-[44px] mb-[16px] bg-white-orange text-white disabled:text-white-black disabled:bg-white disabled:border-white-black disabled:border-[1px] md:rounded-[5px] xl:w-[416px]"
+        disabled={disabled}
+        {...rest}
       >
         {children}
       </button>

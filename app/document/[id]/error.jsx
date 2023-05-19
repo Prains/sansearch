@@ -1,11 +1,11 @@
+"use client";
 import Main from "@/components/Main/Main";
-import Loader from "@/components/ui/Loader";
 
-export default function Loading() {
+export default function ErrorWrapper({ error }) {
   return (
     <>
       <Main searchingZone="Russia" searchingZoneTitle="Санкции РФ" />
-      <Loader className="mt-[30px]" />
+      <h1>ERROR {error.message}</h1>;
     </>
   );
 }
