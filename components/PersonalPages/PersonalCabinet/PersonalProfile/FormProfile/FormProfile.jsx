@@ -8,7 +8,6 @@ import useInput from "@/hooks/useInput";
 import LabelInput from "./LabelInput/LabelInput";
 import { useState } from "react";
 
-
 const FormProfile = () => {
 
     const [name, nameChange] = useInput("");

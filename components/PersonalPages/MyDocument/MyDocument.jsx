@@ -3,10 +3,12 @@ import Checks from "./Checks/Cheks";
 import PersonalTitle from "../PersonalTitle";
 const MyDocument = () => {
     return (
-        <section>
-            <PersonalTitle className="mb-[15px] mt-[15px] lg:mb-[30px] lg:mt-[30px]">Мои документы</PersonalTitle>
-            <AvailableDocuments/>
-            <Checks/>
+        <section className="text-center w-full mx-auto">
+            <PersonalTitle className="mb-[30px] mt-[30px]">Мои документы</PersonalTitle>
+            <article className="">
+                <AvailableDocuments/>
+                <Checks/>
+            </article>
         </section>
     )
 }
