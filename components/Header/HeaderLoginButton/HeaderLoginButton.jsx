@@ -1,12 +1,12 @@
-"use client";
-import Link from "next/link";
-import links from "@/utils/links";
+"use client";;
 import { useSelector, useDispatch } from "react-redux";
 import { profileIcon, exitButton } from "@/images/icons";
-import Image from "next/image";
 import { useRouter } from "next/navigation";
-import token from "@/utils/token";
 import { setUser } from "@/services/reducers/User";
+import Image from "next/image";
+import token from "@/utils/token";
+import Link from "next/link";
+import links from "@/utils/links"
 
 const HeaderLoginButton = ({ children, burger, close }) => {
   const { user } = useSelector((state) => state.user);

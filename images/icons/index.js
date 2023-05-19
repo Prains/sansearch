@@ -3,7 +3,7 @@ import doneSvg from "./done.svg";
 import burgerMenuIcon from "./menu.svg";
 import closeCross from "./close.svg";
 import profileIcon from "./Profile-stroke.svg";
-import exitButton from "./Frame 1004.svg";
+import exitButton from "./exitButton.svg";
 
 export {
   searchIcon,
