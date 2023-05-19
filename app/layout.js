@@ -7,14 +7,16 @@ export const metadata = {
   description: "Сайт по поиску юридических документов",
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children, auth }) {
   return (
-    <html lang="en">
+    <html lang="ru">
       <body className="font-text" suppressHydrationWarning={true}>
         <Header />
         {children}
+        {auth}
         <Footer />
       </body>
     </html>
   );
 }
+

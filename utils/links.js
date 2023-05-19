@@ -7,6 +7,10 @@ const links = {
   profile: "/profile",
   document: "/document",
   privacy: "/privacy-policy",
+  login: "/login",
+  registration: "/register",
+  forgotPassword: "/reset-password",
+  accessError: "/access-error",
 };
 
 export default links;
