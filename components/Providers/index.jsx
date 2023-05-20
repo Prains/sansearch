@@ -6,7 +6,7 @@ import AuthProvider from "./AuthProvider/AuthProvider";
 const Providers = ({ children }) => {
   return (
     <Provider store={store}>
-      {/* <AuthProvider>{children}</AuthProvider> */}
+      <AuthProvider>{children}</AuthProvider>
       {children}
     </Provider>
   );

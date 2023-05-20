@@ -11,14 +11,58 @@ export async function fetchDocument(id) {
   return data;
 }
 
-export async function fetchDocuments() {
+export async function fetchDocuments(zone) {
   const resp = await fetch(`${links.backend}/api/documents`, {
     next: { revalidate: 60 },
   });
 
   const data = await resp.json();
 
-  return data;
+  const filterData = () => {
+    const filteredData = data.data.filter(
+      (doc) => doc.attributes.type === zone
+    );
+    return filteredData;
+  };
+
+  const filteredData = filterData();
+
+  return filteredData;
+}
+
+export async function searchDocuments(searchValue, searchingZone) {
+  const resp = await fetch(`${links.backend}/api/documents`, {
+    next: { revalidate: 60 },
+  });
+
+  const data = await resp.json();
+
+  const filterData = () => {
+    const filteredDataByZone = data.data.filter(
+      (doc) => doc.attributes.type === searchingZone
+    );
+
+    const includedValue = filteredDataByZone.filter((doc) => {
+      if (
+        doc?.attributes?.title
+          ?.toLowerCase()
+          .includes(searchValue.toLowerCase()) ||
+        doc?.attributes?.description
+          ?.toLowerCase()
+          .includes(searchValue.toLowerCase())
+      ) {
+        return true;
+      }
+
+      return false;
+    });
+
+    return includedValue;
+  };
+
+  const filteredDataByZone = filterData();
+
+  return filteredDataByZone;
 }
 
 export async function getFileUrl(id) {

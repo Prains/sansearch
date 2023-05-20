@@ -6,10 +6,8 @@ const SanctionsPage = ({ documents }) => {
       <p className="text-[20px] mt-[-26px] mb-[20px] lg:mt-[-52px] lg:text-[28px]">
         Результаты поиска
       </p>
-      {documents?.data === null && <p>Документов не найдено</p>}
-      {documents?.data?.length > 0 && (
-        <SearchingDocument documents={documents.data} />
-      )}
+      {documents?.length === 0 && <p>Документов не найдено</p>}
+      {documents?.length > 0 && <SearchingDocument documents={documents} />}
     </div>
   );
 };

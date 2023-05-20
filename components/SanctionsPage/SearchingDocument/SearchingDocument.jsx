@@ -1,5 +1,4 @@
 "use client";
-
 import { useState } from "react";
 import SearchingDocumentList from "./SearchingDocumentList/SearchingDocumentList";
 import Pagination from "../../ui/Pagination/Pagination";
