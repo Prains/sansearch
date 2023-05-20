@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import { Provider } from "react-redux";
 import store from "@/services/store";
 import AuthProvider from "./AuthProvider/AuthProvider";
@@ -6,7 +6,8 @@ import AuthProvider from "./AuthProvider/AuthProvider";
 const Providers = ({ children }) => {
   return (
     <Provider store={store}>
-      <AuthProvider>{children}</AuthProvider>
+      {/* <AuthProvider>{children}</AuthProvider> */}
+      {children}
     </Provider>
   );
 };

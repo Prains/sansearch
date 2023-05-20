@@ -4,7 +4,7 @@ import Loader from "@/components/ui/Loader";
 export default function Loading() {
   return (
     <>
-      <Main searchingZone="Eu" searchingZoneTitle="Санкции ЕС" />
+      <Main searchingZone="eu" searchingZoneTitle="Санкции ЕС" />
       <Loader className="mt-[30px]" />;
     </>
   );

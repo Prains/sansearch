@@ -1,10 +1,19 @@
+"use client";
+import { useEffect } from "react";
+import { useDispatch } from "react-redux";
 import Title from "@/components/ui/Title";
 import { background } from "@/images/Mainpage/Main";
 import SearchBar from "./SearchBar/SearchBar";
 import MainButtons from "./MainButtons/MainButtons";
+import { setSearchingZone } from "@/services/reducers/ui/uiReducer";
 
 const Main = ({ searchingZone, searchingZoneTitle }) => {
+  const dispatch = useDispatch();
   const classForTitle = searchingZoneTitle && "mx-auto";
+
+  useEffect(() => {
+    dispatch(setSearchingZone(searchingZone));
+  }, []);
   return (
     <section
       className="flex items-center justify-center w-full mt-5"

@@ -12,7 +12,7 @@ export default async function Usa() {
 
   return (
     <main className="flex items-center justify-center flex-col gap-[38px] lg:gap-[90px]">
-      <Main searchingZone="Usa" searchingZoneTitle="Санкции США" />
+      <Main searchingZone="usa" searchingZoneTitle="Санкции США" />
       <SanctionsPage documents={documents} />
     </main>
   );

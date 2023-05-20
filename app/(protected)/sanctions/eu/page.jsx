@@ -12,7 +12,7 @@ export default async function Eu() {
 
   return (
     <main className="flex items-center justify-center flex-col gap-[38px] lg:gap-[90px]">
-      <Main searchingZone="Eu" searchingZoneTitle="Санкции ЕС" />
+      <Main searchingZone="eu" searchingZoneTitle="Санкции ЕС" />
       <SanctionsPage documents={documents} />
     </main>
   );

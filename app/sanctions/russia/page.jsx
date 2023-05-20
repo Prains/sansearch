@@ -12,7 +12,7 @@ export default async function Russia() {
 
   return (
     <main className="flex items-center justify-center flex-col gap-[38px] lg:gap-[90px]">
-      <Main searchingZone="Russia" searchingZoneTitle="Санкции РФ" />
+      <Main searchingZone="ru" searchingZoneTitle="Санкции РФ" />
       <SanctionsPage documents={documents} />
     </main>
   );
