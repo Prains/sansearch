@@ -14,7 +14,7 @@ const ProtectedRoute = ({ children }) => {
     if (!user && status === "resolved") {
       router.push("/access-error");
     }
-  }, [user, status, router]);
+  }, [user, status]);
 
   return <>{children}</>;
 };
