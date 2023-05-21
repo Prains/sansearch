@@ -1,10 +1,15 @@
+"use client";
+import { useState } from "react";
 import Title from "@/components/ui/Title";
 import { background } from "@/images/Mainpage/Main";
 import SearchBar from "./SearchBar/SearchBar";
 import MainButtons from "./MainButtons/MainButtons";
 
 const Main = ({ searchingZone, searchingZoneTitle }) => {
+  const [zone, setZone] = useState(searchingZone);
+
   const classForTitle = searchingZoneTitle && "mx-auto";
+
   return (
     <section
       className="flex items-center justify-center w-full mt-5"
@@ -19,8 +24,8 @@ const Main = ({ searchingZone, searchingZoneTitle }) => {
           {searchingZoneTitle || "поиск документа"}
         </Title>
         <form className="lg:w-full">
-          <SearchBar />
-          {!searchingZone && <MainButtons />}
+          <SearchBar searchingZone={zone} />
+          {!searchingZone && <MainButtons zone={zone} setZone={setZone} />}
         </form>
       </div>
     </section>
