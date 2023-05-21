@@ -22,9 +22,8 @@ const PersonalSubscription = () => {
             >
                 Оформить
             </Button>
-            if (isSubscriptionPopup) {
-                <SubscriptionPopup/>
-            }
+            {isSubscriptionPopup ? <SubscriptionPopup/> : ''}
+    
         </article>
     )
 }
