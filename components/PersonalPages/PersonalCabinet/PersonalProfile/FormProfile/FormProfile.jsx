@@ -9,6 +9,7 @@ import LabelInput from "./LabelInput/LabelInput";
 import { useState } from "react";
 import { useSelector } from "react-redux";
 import Loader from "@/components/ui/Loader";
+import ProfileDeletePopup from "../ProfileDeletePopup/ProfileDeletePopup";
 
 const FormProfile = () => {
     const { user } = useSelector((state) => state.user);
@@ -17,6 +18,7 @@ const FormProfile = () => {
     const [password, passwordChange] = useInput(user.password);
 
     const [isAddButtons, isSetAddButtons] = useState(false);
+    const [isOpenPopupDeleteProfile, isSetOpenPopupDeleteProfile] = useState(false);
 
     if (!user) {
         return (
@@ -26,6 +28,10 @@ const FormProfile = () => {
 
     const handleClickAddButtons = () => {
         isSetAddButtons((isAddButtons) => (!isAddButtons))
+    }
+
+    const handleClickOpenDeleteProfile = () => {
+        isSetOpenPopupDeleteProfile((isOpenPopupDeleteProfile) => (!isOpenPopupDeleteProfile))
     }
 
     const inputInfo = [
@@ -130,7 +136,12 @@ const FormProfile = () => {
                         >
                             Сохранить изменения
                         </Buttons>
-                        <Buttons type="grey">Удалить аккаунт</Buttons>
+                        <Buttons 
+                            type="grey"
+                            onClick={handleClickOpenDeleteProfile}
+                        >
+                            Удалить аккаунт
+                        </Buttons>
                     </div>
                     ) : (
                         <Button 
@@ -142,6 +153,7 @@ const FormProfile = () => {
                         </Button>
                 )}
             </div>
+            {isOpenPopupDeleteProfile ? <ProfileDeletePopup/> : ''}
         </form>
     )
 }
