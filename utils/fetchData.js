@@ -11,14 +11,23 @@ export async function fetchDocument(id) {
   return data;
 }
 
-export async function fetchDocuments() {
+export async function fetchDocuments(zone) {
   const resp = await fetch(`${links.backend}/api/documents`, {
     next: { revalidate: 60 },
   });
 
   const data = await resp.json();
 
-  return data;
+  const filterData = () => {
+    const filteredData = data.data.filter(
+      (doc) => doc.attributes.type === zone
+    );
+    return filteredData;
+  };
+
+  const filteredData = filterData();
+
+  return filteredData;
 }
 
 export async function getFileUrl(id) {

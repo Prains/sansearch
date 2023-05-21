@@ -7,13 +7,13 @@ const AuthProvider = ({ children }) => {
   const dispatch = useDispatch();
   const status = useSelector((state) => state.user.status);
 
-  useEffect(() => {
-    dispatch(fetchCurrentUser());
-  }, [dispatch]);
+  // useEffect(() => {
+  //   dispatch(fetchCurrentUser());
+  // }, [dispatch]);
 
-  if (status === "loading") {
-    return null;
-  }
+  // if (status === "loading") {
+  //   return null;
+  // }
 
   return <>{children}</>;
 };

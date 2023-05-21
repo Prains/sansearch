@@ -4,7 +4,7 @@ import Main from "@/components/Main/Main";
 export default function NotFound() {
   return (
     <>
-      <Main searchingZone="Usa" searchingZoneTitle="Санкции США" />
+      <Main searchingZone="usa" searchingZoneTitle="Санкции США" />
       <ErrorMessage>Документ не найден</ErrorMessage>
     </>
   );
