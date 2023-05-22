@@ -9,19 +9,22 @@ import QuestionResult from "./QuestionResult/QuestionResult";
 import { questionsOfControl as questions } from "@/utils/questionsOfControl";
 import { closeCross } from "@/images/icons";
 import QuestionText from "./Question/QuestionText/QuestionText";
+import { useRouter } from "next/navigation";
 
 const QuestionsOfControl = () => {
   const [answers, setAnswers] = useState([]);
   const [isFinished, setIsFinished] = useState(false);
   const [numberOfCurrentQuestion, setNumberOfCurrentQuestion] = useState(1);
+  const router = useRouter();
 
   const currentQuestion = questions[numberOfCurrentQuestion - 1];
 
   return (
     <Overlay>
       <div
-        className={`relative ${isFinished &&
-          "overflow-y-auto !h-auto"} !h-auto flex-center w-[94%] h-[600px] max-h-[90%] rounded-3xl bg-white md:h-auto md:overflow-y-auto lg:mx-[122px] lg:max-w-[1020px]`}
+        className={`relative ${
+          isFinished && "overflow-y-auto !h-auto"
+        } !h-auto flex-center w-[94%] h-[600px] max-h-[90%] rounded-3xl bg-white md:h-auto md:overflow-y-auto lg:mx-[122px] lg:max-w-[1020px]`}
       >
         <article
           className={`flex flex-col items-center ${
@@ -32,8 +35,10 @@ const QuestionsOfControl = () => {
             Определение контроля
           </h4>
           <div
-            className={`${!isFinished &&
-              "overflow-y-auto  h-auto max-h-[300px] mb-[10px]  md:h-auto md:max-h-[150px] md:overflow-hidden"}`}
+            className={`${
+              !isFinished &&
+              "overflow-y-auto  h-auto max-h-[300px] mb-[10px]  md:h-auto md:max-h-[150px] md:overflow-hidden"
+            }`}
           >
             {!isFinished && (
               <>
@@ -67,7 +72,12 @@ const QuestionsOfControl = () => {
           )}
 
           {isFinished && <QuestionResult answers={answers} />}
-          <button className="absolute top-[12px] right-[12px] w-[22px] h-[22px] bg-transparent md:top-[20px] md:right-[20px]">
+          <button
+            className="absolute top-[12px] right-[12px] w-[22px] h-[22px] bg-transparent md:top-[20px] md:right-[20px]"
+            onClick={() => {
+              router.back();
+            }}
+          >
             <Image
               className="w-full h-full"
               src={closeCross}
