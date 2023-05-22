@@ -3,7 +3,6 @@ import Image from "next/image";
 import { avatar } from "@/images/PersonalPages";
 import Button from "@/components/ui/Button";
 import Buttons from "@/components/PersonalPages/Buttons";
-
 import useInput from "@/hooks/useInput";
 import LabelInput from "./LabelInput/LabelInput";
 import { useState } from "react";
@@ -25,11 +24,10 @@ const FormProfile = () => {
             <Loader/>
         )
     }
-
     const handleClickAddButtons = () => {
         isSetAddButtons((isAddButtons) => (!isAddButtons))
     }
-
+    
     const handleClickOpenDeleteProfile = () => {
         isSetOpenPopupDeleteProfile((isOpenPopupDeleteProfile) => (!isOpenPopupDeleteProfile))
     }
@@ -88,7 +86,7 @@ const FormProfile = () => {
             placeholder: "Введите новый пароль",
             defaultValue: password,
             onChange: (e) => {
-                newPasswordChange(e);
+                passwordChange(e);
             },
         },
     ]
@@ -102,7 +100,7 @@ const FormProfile = () => {
                 alt="Фотография пользователя"
             />
             <div className="w-[270px] max-h-[600px] mx-auto text-left lg:w-[416px]">
-                {isAddButtons ? inputCorrect.map((input) => {
+            {isAddButtons ? inputCorrect.map((input) => {
                             return (
                             <LabelInput
                                 {...input}
@@ -119,7 +117,7 @@ const FormProfile = () => {
                             />
                         );
                     })}                    
-                
+
                 <label className="text-[22px] mr-1 lg:inline-block lg:w-[178px]">Подписка:</label>
                 {user.subscribed ? (
                     <span className="text-[20px] text-[#69D443]">Есть</span>
@@ -128,8 +126,8 @@ const FormProfile = () => {
                 )}
             </div>
             <div className="mt-[30px]">
-                {isAddButtons ? (
-                    <div>
+                {isAddButtons ? ( 
+                   <div>
                         <Buttons 
                             type="orange" 
                             onClick={handleClickAddButtons}
@@ -143,18 +141,17 @@ const FormProfile = () => {
                             Удалить аккаунт
                         </Buttons>
                     </div>
-                    ) : (
-                        <Button 
-                            type="secondary" 
-                            className="mx-auto text-full-white h-[45px] lg:w-[416px]" 
-                            onClick={handleClickAddButtons}
-                        >
-                            Изменить данные
-                        </Button>
+               ) : (
+                <Button 
+                    type="secondary" 
+                    className="mx-auto text-full-white h-[45px] lg:w-[416px]" 
+                    onClick={handleClickAddButtons}
+                >
+                    Изменить данные
+                </Button>
                 )}
             </div>
             {isOpenPopupDeleteProfile ? <ProfileDeletePopup/> : ''}
         </form>
-    )
-}
+    )}
 export default FormProfile;

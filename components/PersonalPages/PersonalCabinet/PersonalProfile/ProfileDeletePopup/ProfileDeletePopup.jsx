@@ -22,7 +22,7 @@ const ProfileDeletePopup = (isOpenPopupDeleteProfile) => {
                     ) : (
                         <article className="w-[280px] lg:w-[500px] flex-center-col my-[30px] lg:my-[50px]">
                             <h4 className="text-[20px] mb-6 text-center lg:text-[32px]">Вы уверены, что хотите удалить свой аккаунт?</h4>
-                            <p className="text-[#7a6a6a] text-[11px] my-[25px] lg:text-[18px]">
+                            <p className="text-[#7a6a6a] text-[14px] mb-[15px] lg:text-[18px]">
                                 Нам Вас будет не хватать :(
                             </p>
                             <Buttons
