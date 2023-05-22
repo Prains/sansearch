@@ -23,7 +23,7 @@ const AccesErrorPopup = ({ name }) => {
                     router.push(links.profile);
                   }, 200);
                 }}
-                className="text-[#FFC56D]"
+                className="text-[#FFC56D] cursor-pointer"
               >
                 личном кабинете
               </p>
