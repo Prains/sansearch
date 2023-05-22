@@ -1,8 +1,6 @@
-import Button from "@/components/ui/Button";
 import Subtitle from "@/components/ui/Subtitle";
 import AdvantageList from "./AdvantageList/AdvantageList";
-import links from "@/utils/links";
-import Link from "next/link";
+import AdvantageButton from "./AdvantageButton/AdvantageButton";
 
 const Advantage = () => {
   const advantages = [
@@ -17,11 +15,7 @@ const Advantage = () => {
       <section className="flex flex-col items-center w-[75%] mx-auto lg:w-[87%] lg:items-start">
         <Subtitle>Возможности</Subtitle>
         <AdvantageList list={advantages} />
-        <Link href={links.login}>
-          <Button type="secondary" className="text-white uppercase">
-            Попробовать
-          </Button>
-        </Link>
+        <AdvantageButton />
       </section>
     </div>
   );
