@@ -1,12 +1,13 @@
 "use client";
 import { useSelector, useDispatch } from "react-redux";
-import { profileIcon, exitButton } from "@/images/icons";
+import { exitButton } from "@/images/icons";
 import { useRouter } from "next/navigation";
 import { setUser } from "@/services/reducers/User";
 import Image from "next/image";
 import token from "@/utils/token";
 import Link from "next/link";
 import links from "@/utils/links";
+import Dropdown from "./Dropdown/Dropdown";
 
 const HeaderLoginButton = ({ children, burger, close }) => {
   const { user } = useSelector((state) => state.user);
@@ -33,14 +34,7 @@ const HeaderLoginButton = ({ children, burger, close }) => {
     );
   }
   if (user) {
-    return (
-      <div className="hidden lg:flex-center gap-[22px]">
-        <p className="text-[18px] text-[#939393]">{user.username}</p>
-        <Link href={links.profile}>
-          <Image src={profileIcon} alt="Торс человечка внутри кружка" />
-        </Link>
-      </div>
-    );
+    return <Dropdown user={user}/>;
   }
   return (
     <>
