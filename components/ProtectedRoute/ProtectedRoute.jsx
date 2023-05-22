@@ -25,7 +25,7 @@ const ProtectedRoute = ({ children }) => {
     if (user && user.subscribed === false && path !== links.profile) {
       router.push(`/access-error?name=${user.username}`);
     }
-  }, [user, status]);
+  }, [user, status, path, router]);
 
   return <>{children}</>;
 };

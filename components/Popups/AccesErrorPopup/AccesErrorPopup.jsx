@@ -1,22 +1,32 @@
+"use client";
 import Overlay from "@/components/ui/Overlay";
 import LoginForm from "../LoginPopup/LoginForm/LoginForm";
 import LoginLink from "../LoginPopup/LoginLink/LoginLink";
-import Link from "next/link";
 import links from "@/utils/links";
+import { useRouter } from "next/navigation";
 
 const AccesErrorPopup = ({ name }) => {
+  const router = useRouter();
   if (name) {
     return (
       <Overlay>
         <div className="bg-white w-[300px] lg:w-[606px] flex-center rounded-3xl relative">
-          <article className="w-[256px] lg:w-[480px] flex-center-col my-[50px]">
-            <h4 className="mb-6 lg:mb-[42px] lg:text-[32px] text-center">
-              Подписка
-            </h4>
-            <p>{name}, у Вас не оплачена подписка!</p>
-            <p>
+          <article className="w-[260px] lg:w-[480px] flex-center-col gap-10 my-[50px]">
+            <h4 className="text-xl lg:text-[32px] text-center">Подписка</h4>
+            <p className="text-center">{name}, у Вас не оплачена подписка!</p>
+            <p className="text-center flex-center-col text-[#939393]">
               Подписку можно оплатить в
-              <Link href={links.profile}>личном кабинете</Link>
+              <p
+                onClick={() => {
+                  router.push(links.mainpage);
+                  setTimeout(() => {
+                    router.push(links.profile);
+                  }, 200);
+                }}
+                className="text-[#FFC56D]"
+              >
+                личном кабинете
+              </p>
             </p>
           </article>
         </div>
