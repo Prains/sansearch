@@ -11,7 +11,7 @@ const links = {
   registration: "/register",
   forgotPassword: "/reset-password",
   accessError: "/access-error",
-  backend: "http://45.91.8.76:1337",
+  backend: "https://sansearch.ru",
   controlTest: "/control-test",
 };
 
