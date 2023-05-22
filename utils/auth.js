@@ -1,10 +1,12 @@
 import links from "./links";
 import token from "./token";
+import apiToken from "./apiToken";
 
 class Auth {
   constructor() {
     this._headers = {
       "Content-Type": "application/json",
+      Authorization: apiToken,
     };
   }
   register(name, email, password) {

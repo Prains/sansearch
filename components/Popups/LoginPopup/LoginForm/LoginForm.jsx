@@ -2,17 +2,15 @@
 import useInput from "@/hooks/useInput";
 import LabelNInput from "../LabelNInput/LabelNInput";
 import auth from "@/utils/auth";
-import token from "@/utils/token";
-import links from "@/utils/links";
-import { useRouter } from "next/navigation";
-import { useDispatch } from "react-redux";
-import { setUser } from "@/services/reducers/User";
+import { useState } from "react";
+import useAuth from "@/hooks/useAuth";
+import ErrorMessage from "@/components/ui/ErrorMessage";
 
 const LoginForm = () => {
   const [email, emailChange] = useInput("");
   const [password, passwordChange] = useInput("");
-  const router = useRouter();
-  const dispatch = useDispatch();
+  const [error, setError] = useState(false);
+  const authHandling = useAuth();
 
   const inputList = [
     {
@@ -41,9 +39,8 @@ const LoginForm = () => {
       onSubmit={(e) => {
         e.preventDefault();
         auth.login(email, password).then((res) => {
-          token.setAccessToken(res.jwt);
-          dispatch(setUser(res.user));
-          router.push(links.profile);
+          console.log(res);
+          authHandling(setError, res);
         });
       }}
     >
@@ -56,6 +53,7 @@ const LoginForm = () => {
       >
         Войти
       </button>
+      {error && <ErrorMessage>Неправильный логин или пароль</ErrorMessage>}
     </form>
   );
 };

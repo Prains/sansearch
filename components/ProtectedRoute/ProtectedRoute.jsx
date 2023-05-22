@@ -5,10 +5,11 @@ import { useRouter } from "next/navigation";
 
 const ProtectedRoute = ({ children }) => {
   const { user, status } = useSelector((state) => state.user);
+
   const router = useRouter();
 
   useEffect(() => {
-    if (status === "loading") {
+    if (!user && status === "loading") {
       return null;
     }
     if (!user && status === "resolved") {

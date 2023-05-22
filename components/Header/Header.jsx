@@ -8,7 +8,7 @@ const Header = () => {
   const menuList = [
     {
       name: "О сервисе",
-      link: links.about,
+      link: links.mainpage,
     },
     {
       name: "Санкции РФ",
