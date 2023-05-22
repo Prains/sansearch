@@ -6,11 +6,6 @@ import token from "@/utils/token";
 import links from "@/utils/links";
 
 const PersonalSubscription = () => {
-  const exitProfile = () => {
-    token.logOut();
-    window.history.pushState("", "", links.mainpage);
-    window.location.reload();
-  };
   return (
     <article className="mt-[30px] mb-[15px] text-center mx-auto w-[280px] lg:mx-0 lg:text-left lg:w-[560px] lg:mt-0">
       <PersonalSubtitle className="mb-[45px]">Подписка</PersonalSubtitle>
@@ -20,13 +15,6 @@ const PersonalSubscription = () => {
       <Button type="secondary" className="text-full-white h-[50px] lg:h-[60px]">
         Оформить
       </Button>
-      <Buttons
-        type="grey"
-        className="h-[50px] lg:h-[60px] mt-10"
-        onClick={exitProfile}
-      >
-        Выйти
-      </Buttons>
     </article>
   );
 };
