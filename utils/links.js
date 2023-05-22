@@ -11,7 +11,7 @@ const links = {
   registration: "/register",
   forgotPassword: "/reset-password",
   accessError: "/access-error",
-  backend: "https://sansearch.ru",
+  backend: "http://sansearch.ru:1337/strapi",
   controlTest: "/control-test",
 };
 
