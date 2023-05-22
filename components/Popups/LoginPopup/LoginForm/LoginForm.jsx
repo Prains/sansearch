@@ -39,7 +39,6 @@ const LoginForm = () => {
       onSubmit={(e) => {
         e.preventDefault();
         auth.login(email, password).then((res) => {
-          console.log(res);
           authHandling(setError, res);
         });
       }}
