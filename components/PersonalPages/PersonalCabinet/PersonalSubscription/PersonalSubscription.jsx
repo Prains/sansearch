@@ -1,6 +1,7 @@
 "use client";
 import PersonalSubtitle from "@/components/PersonalPages/PersonalSubtitle";
 import Button from "@/components/ui/Button";
+import Buttons from "../../Buttons";
 import token from "@/utils/token";
 import links from "@/utils/links";
 
@@ -19,13 +20,13 @@ const PersonalSubscription = () => {
       <Button type="secondary" className="text-full-white h-[50px] lg:h-[60px]">
         Оформить
       </Button>
-      <Button
-        type="secondary"
-        className="text-full-white h-[50px] lg:h-[60px] mt-10"
+      <Buttons
+        type="grey"
+        className="h-[50px] lg:h-[60px] mt-10"
         onClick={exitProfile}
       >
         Выйти
-      </Button>
+      </Buttons>
     </article>
   );
 };
