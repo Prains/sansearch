@@ -14,7 +14,10 @@ const useAuth = () => {
     } else {
       token.setAccessToken(res.jwt);
       dispatch(setUser(res.user));
-      router.push(links.profile);
+      router.back();
+      setTimeout(() => {
+        router.push(links.profile);
+      }, 200);
     }
   };
 };
