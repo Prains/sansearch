@@ -7,17 +7,14 @@ import useInput from "@/hooks/useInput";
 import LabelInput from "./LabelInput/LabelInput";
 import { useState } from "react";
 import { useSelector } from "react-redux";
-import token from "@/utils/token";
-import links from "@/utils/links";
 import Loader from "@/components/ui/Loader";
 import ProfileDeletePopup from "../ProfileDeletePopup/ProfileDeletePopup";
 
 const FormProfile = () => {
     const { user } = useSelector((state) => state.user);
-    const [name, nameChange] = useInput(user?.username ?? "");
-    const [email, emailChange] = useInput(user?.email ?? "");
-    const [password, passwordChange] = useInput(user?.password ?? "");
-
+    const [name, nameChange] = useInput(user?.username);
+    const [email, emailChange] = useInput(user?.email);
+    const [password, passwordChange] = useInput(user?.password);
     const [isAddButtons, isSetAddButtons] = useState(false);
     const [isOpenPopupDeleteProfile, isSetOpenPopupDeleteProfile] = useState(false);
 
@@ -33,12 +30,6 @@ const FormProfile = () => {
     const handleClickOpenDeleteProfile = () => {
         isSetOpenPopupDeleteProfile((isOpenPopupDeleteProfile) => (!isOpenPopupDeleteProfile))
     }
-
-    const exitProfile = () => {
-        token.logOut();
-        window.history.pushState("", "", links.mainpage);
-        window.location.reload();
-      };
 
     const inputInfo = [
         {
@@ -104,7 +95,6 @@ const FormProfile = () => {
             <Image 
                 className="w-[100px] h-[100px] mx-auto mb-[20px]" 
                 src={avatar} 
-                key={user.id}
                 alt="Фотография пользователя"
             />
             <div className="w-[270px] max-h-[600px] mx-auto text-left lg:w-[416px]">
@@ -127,7 +117,7 @@ const FormProfile = () => {
                     })}                    
 
                 <label className="text-[22px] mr-1 lg:inline-block lg:w-[178px]">Подписка:</label>
-                {user.subscribed ? (
+                {user?.subscribed ? (
                     <span className="text-[20px] text-[#69D443]">Есть</span>
                     ) : (
                     <span className="text-[20px] text-white-black">Нет</span>
@@ -159,15 +149,8 @@ const FormProfile = () => {
                     Изменить данные
                 </Button>
                 )}
-                <Buttons
-                    type="grey"
-                    className="w-[280px] h-[50px] lg:w-[416px] lg:h-[60px]"
-                    onClick={exitProfile}
-                >
-                    Выйти
-                </Buttons>
             </div>
-            {isOpenPopupDeleteProfile ? <ProfileDeletePopup/> : ''}
+            {isOpenPopupDeleteProfile && <ProfileDeletePopup/>}
         </form>
     )}
 export default FormProfile;
