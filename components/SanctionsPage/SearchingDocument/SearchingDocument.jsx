@@ -6,10 +6,12 @@ import Pagination from "../../ui/Pagination/Pagination";
 import { useSearchParams } from "next/navigation";
 import { filterData } from "@/utils/filterData";
 import SearchTitle from "./SearchTitle/SearchTitle";
+import { DOCUMENTS_PER_PAGE } from "@/utils/variables";
 
 const SearchingDocument = ({ documents }) => {
+  const [updatedDocuments, setUpdatedDocuments] = useState(documents);
   const [slicedDocuments, setSlicedDocuments] = useState(
-    documents.slice(0, 10)
+    updatedDocuments.slice(0, DOCUMENTS_PER_PAGE)
   );
 
   const params = useSearchParams();
@@ -20,7 +22,12 @@ const SearchingDocument = ({ documents }) => {
       return;
     }
 
-    setSlicedDocuments(filterData(documents, search));
+    const updatedDocumentsAfterSearch = filterData(documents, search);
+
+    setSlicedDocuments(
+      updatedDocumentsAfterSearch.slice(0, DOCUMENTS_PER_PAGE)
+    );
+    setUpdatedDocuments(updatedDocumentsAfterSearch);
   }, [search]);
 
   return (
@@ -32,7 +39,7 @@ const SearchingDocument = ({ documents }) => {
         <>
           <SearchingDocumentList slicedDocuments={slicedDocuments} />
           <Pagination
-            documents={documents}
+            documents={updatedDocuments}
             setSlicedDocuments={setSlicedDocuments}
           />
         </>

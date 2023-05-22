@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import PaginationButton from "@/components/ui/Pagination/PaginationButton/PaginationButton";
 import { paginate } from "@/utils/paginate";
+import { DOCUMENTS_PER_PAGE } from "@/utils/variables";
 
 import { arrowActiveSvg, arrowDisabledSvg } from "@/images/icons/arrows";
 
@@ -14,11 +15,10 @@ import { arrowActiveSvg, arrowDisabledSvg } from "@/images/icons/arrows";
 
 const Pagination = ({ documents, setSlicedDocuments }) => {
   const [currentPage, setCurrentPage] = useState(1);
-  const [documentsPerPage] = useState(10);
 
   const pageNumbers = [];
   const paginatePage = (pageNumber) => setCurrentPage(pageNumber);
-  const totalPage = Math.ceil(documents.length / documentsPerPage);
+  const totalPage = Math.ceil(documents.length / DOCUMENTS_PER_PAGE);
 
   for (let i = 1; i <= totalPage; i++) {
     pageNumbers.push(i);
@@ -26,11 +26,11 @@ const Pagination = ({ documents, setSlicedDocuments }) => {
 
   const handleClickPage = (number) => {
     paginatePage(number);
-    setSlicedDocuments(paginate(documents, number, documentsPerPage));
+    setSlicedDocuments(paginate(documents, number, DOCUMENTS_PER_PAGE));
   };
 
   useEffect(() => {
-    setSlicedDocuments(paginate(documents, currentPage, documentsPerPage));
+    setSlicedDocuments(paginate(documents, currentPage, DOCUMENTS_PER_PAGE));
   }, [currentPage]);
 
   const renderPaginationButtons = () => {
