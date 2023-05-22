@@ -1,10 +1,10 @@
 import { notFound } from "next/navigation";
 import Main from "@/components/Main/Main";
-import SanctionsPage from "@/components/SanctionsPage/SanctionsPage";
+import SearchingDocument from "@/components/SanctionsPage/SearchingDocument/SearchingDocument";
 import { fetchDocuments } from "@/utils/fetchData";
 
 export default async function Eu() {
-  const documents = await fetchDocuments();
+  const documents = await fetchDocuments("eu");
 
   if (!documents) {
     notFound();
@@ -12,8 +12,8 @@ export default async function Eu() {
 
   return (
     <main className="flex items-center justify-center flex-col gap-[38px] lg:gap-[90px]">
-      <Main searchingZone="Eu" searchingZoneTitle="Санкции ЕС" />
-      <SanctionsPage documents={documents} />
+      <Main searchingZone="eu" searchingZoneTitle="Санкции ЕС" />
+      <SearchingDocument documents={documents} />
     </main>
   );
 }

@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import { Provider } from "react-redux";
 import store from "@/services/store";
 import AuthProvider from "./AuthProvider/AuthProvider";

@@ -4,17 +4,16 @@ import LabelNInput from "../../LoginPopup/LabelNInput/LabelNInput";
 import Link from "next/link";
 import links from "@/utils/links";
 import auth from "@/utils/auth";
-import { useDispatch } from "react-redux";
-import { setUser } from "@/services/reducers/User";
-import token from "@/utils/token";
-import { useRouter } from "next/navigation";
+import useAuth from "@/hooks/useAuth";
+import ErrorMessage from "@/components/ui/ErrorMessage";
+import { useState } from "react";
 
 const RegistrationForm = () => {
   const [name, nameChange] = useInput("");
   const [email, emailChange] = useInput("");
   const [password, passwordChange] = useInput("");
-  const dispatch = useDispatch();
-  const router = useRouter();
+  const [error, setError] = useState(false);
+  const authHandler = useAuth();
 
   const inputList = [
     {
@@ -43,6 +42,7 @@ const RegistrationForm = () => {
         passwordChange(e);
       },
       value: password,
+      minLength: 6,
     },
   ];
 
@@ -51,10 +51,13 @@ const RegistrationForm = () => {
       className="mb-[42px] lg:mb-5 flex-center-col gap-[17px] lg:gap-6 w-full"
       onSubmit={(e) => {
         e.preventDefault();
+        if (password.length < 6) {
+          setError(true);
+        }
+        setError(false);
         auth.register(name, email, password).then((res) => {
-          token.setAccessToken(res.jwt);
-          dispatch(setUser(res.user));
-          router.push(links.profile);
+          console.log(res);
+          authHandler(setError, res);
         });
       }}
     >
@@ -82,6 +85,13 @@ const RegistrationForm = () => {
       >
         Зарегистрироваться
       </button>
+      {error && (
+        <ErrorMessage>
+          {password.length < 6
+            ? "Пароль должен быть минимум 6 символов"
+            : "Имя или почта пользователя уже существует"}
+        </ErrorMessage>
+      )}
     </form>
   );
 };
