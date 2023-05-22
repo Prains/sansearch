@@ -1,7 +1,12 @@
+import apiToken from "./apiToken";
 import links from "./links";
 
 export async function fetchDocument(id) {
   const resp = await fetch(`${links.backend}/api/documents/${id}`, {
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: apiToken,
+    },
     next: { revalidate: 60 },
   });
 
@@ -13,6 +18,10 @@ export async function fetchDocument(id) {
 
 export async function fetchDocuments(zone) {
   const resp = await fetch(`${links.backend}/api/documents`, {
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: apiToken,
+    },
     next: { revalidate: 60 },
   });
 
@@ -32,6 +41,10 @@ export async function fetchDocuments(zone) {
 
 export async function getFileUrl(id) {
   const resp = await fetch(`${links.backend}/api/documents/${id}?populate=*`, {
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: apiToken,
+    },
     next: { revalidate: 60 },
   });
 
