@@ -7,6 +7,8 @@ import useInput from "@/hooks/useInput";
 import LabelInput from "./LabelInput/LabelInput";
 import { useState } from "react";
 import { useSelector } from "react-redux";
+import token from "@/utils/token";
+import links from "@/utils/links";
 import Loader from "@/components/ui/Loader";
 import ProfileDeletePopup from "../ProfileDeletePopup/ProfileDeletePopup";
 
@@ -20,7 +22,9 @@ const FormProfile = () => {
     const [isOpenPopupDeleteProfile, isSetOpenPopupDeleteProfile] = useState(false);
 
     if (!user) {
-        return null
+        return (
+            <Loader/>
+        )
     }
     const handleClickAddButtons = () => {
         isSetAddButtons((isAddButtons) => (!isAddButtons))
@@ -29,6 +33,12 @@ const FormProfile = () => {
     const handleClickOpenDeleteProfile = () => {
         isSetOpenPopupDeleteProfile((isOpenPopupDeleteProfile) => (!isOpenPopupDeleteProfile))
     }
+
+    const exitProfile = () => {
+        token.logOut();
+        window.history.pushState("", "", links.mainpage);
+        window.location.reload();
+      };
 
     const inputInfo = [
         {
@@ -134,6 +144,7 @@ const FormProfile = () => {
                         </Buttons>
                         <Buttons 
                             type="grey"
+                            className="w-[280px] lg:w-[416px]"
                             onClick={handleClickOpenDeleteProfile}
                         >
                             Удалить аккаунт
@@ -148,6 +159,13 @@ const FormProfile = () => {
                     Изменить данные
                 </Button>
                 )}
+                <Buttons
+                    type="grey"
+                    className="w-[280px] h-[50px] lg:w-[416px] lg:h-[60px]"
+                    onClick={exitProfile}
+                >
+                    Выйти
+                </Buttons>
             </div>
             {isOpenPopupDeleteProfile ? <ProfileDeletePopup/> : ''}
         </form>
