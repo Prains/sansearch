@@ -5,7 +5,7 @@ export default function Loading() {
   return (
     <>
       <Main searchingZone="usa" searchingZoneTitle="Санкции США" />
-      <Loader className="mt-[30px]" />;
+      <Loader className="mt-[30px]" />
     </>
   );
 }
