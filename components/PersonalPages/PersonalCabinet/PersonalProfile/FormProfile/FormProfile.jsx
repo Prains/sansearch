@@ -12,17 +12,15 @@ import ProfileDeletePopup from "../ProfileDeletePopup/ProfileDeletePopup";
 
 const FormProfile = () => {
     const { user } = useSelector((state) => state.user);
-    const [name, nameChange] = useInput(user.username);
-    const [email, emailChange] = useInput(user.email);
-    const [password, passwordChange] = useInput(user.password);
+    const [name, nameChange] = useInput(user?.username ?? "");
+    const [email, emailChange] = useInput(user?.email ?? "");
+    const [password, passwordChange] = useInput(user?.password ?? "");
 
     const [isAddButtons, isSetAddButtons] = useState(false);
     const [isOpenPopupDeleteProfile, isSetOpenPopupDeleteProfile] = useState(false);
 
     if (!user) {
-        return (
-            <Loader/>
-        )
+        return null
     }
     const handleClickAddButtons = () => {
         isSetAddButtons((isAddButtons) => (!isAddButtons))

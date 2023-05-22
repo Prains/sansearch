@@ -9,15 +9,13 @@ import InputSend from "./InputSend/InputSend";
 
 const FormSend = () => {
     const { user } = useSelector((state) => state.user);
-    const [name, nameChange] = useInput(user.username);
-    const [email, emailChange] = useInput(user.email);
+    const [name, nameChange] = useInput(user?.username ?? "");
+    const [email, emailChange] = useInput(user?.email ?? "");
 
     const [isSendInfoForSubscription, isSetSendInfoForSubscription] = useState(false);
 
     if (!user) {
-        return (
-           null
-        )
+        return  null
     }
 
     const handleClickSendInfoForSubscription = () => {
