@@ -9,7 +9,7 @@ const links = {
   privacy: "/privacy-policy",
   login: "/login",
   registration: "/register",
-  forgotPassword: "/reset-password",
+  forgotPassword: "/forgot-password",
   accessError: "/access-error",
   backend: "https://sansearch.ru/strapi",
   controlTest: "/control-test",

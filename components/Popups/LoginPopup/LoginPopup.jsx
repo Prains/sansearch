@@ -18,7 +18,7 @@ const LoginPopup = () => {
             </p>
             <div className="flex-center justify-between w-full">
               <LoginLink href={links.registration}>Регистрация</LoginLink>
-              <LoginLink href={"/"}>Забыл пароль</LoginLink>
+              <LoginLink href={links.forgotPassword}>Забыл пароль</LoginLink>
             </div>
           </div>
         </article>

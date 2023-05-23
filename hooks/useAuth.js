@@ -14,7 +14,7 @@ const useAuth = () => {
     } else {
       token.setAccessToken(res.jwt);
       dispatch(setUser(res.user));
-      router.back();
+      router.push(links.mainpage);
       setTimeout(() => {
         router.push(links.profile);
       }, 200);
