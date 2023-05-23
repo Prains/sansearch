@@ -7,13 +7,17 @@ import auth from "@/utils/auth";
 import useAuth from "@/hooks/useAuth";
 import ErrorMessage from "@/components/ui/ErrorMessage";
 import { useState } from "react";
+import { getFileUrlForPrivacyDocuments } from "@/utils/fetchData";
 
-const RegistrationForm = () => {
+const RegistrationForm = async () => {
   const [name, nameChange] = useInput("");
   const [email, emailChange] = useInput("");
   const [password, passwordChange] = useInput("");
   const [error, setError] = useState(false);
   const authHandler = useAuth();
+
+  const policyUrl = await getFileUrlForPrivacyDocuments("policy");
+  const concentToDataUrl = await getFileUrlForPrivacyDocuments("concentToData");
 
   const inputList = [
     {
@@ -56,7 +60,6 @@ const RegistrationForm = () => {
         }
         setError(false);
         auth.register(name, email, password).then((res) => {
-          console.log(res);
           authHandler(setError, res);
         });
       }}
@@ -72,12 +75,24 @@ const RegistrationForm = () => {
       })}
       <div className="flex-center items-start gap-[10px]">
         <input type="checkbox" className="mt-2 w-[20px] h-[20px]" required />
-        <span className="my-0 text-[12px] flex-center-col items-start text-[#939393] lg:text-[18px]">
-          Оставляя свои контактные данные, Вы даёте согласие на
-          <Link className="text-sky-600 underline" href={links.privacy}>
+        <p className="inline my-0 text-[12px] flex-center-col items-start text-[#939393] lg:text-[18px]">
+          Оставляя свои контактные данные, Вы даёте согласие на{" "}
+          <Link
+            className="text-sky-600 underline"
+            target="_blank"
+            href={links.backend + concentToDataUrl}
+          >
             обработку персональных данных
+          </Link>{" "}
+          и соглашаетесь{" "}
+          <Link
+            className="text-sky-600 underline"
+            target="_blank"
+            href={links.backend + policyUrl}
+          >
+            с политикой конфиденциальности персональных данных
           </Link>
-        </span>
+        </p>
       </div>
       <button
         type="submit"
