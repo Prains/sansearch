@@ -6,7 +6,7 @@ import SearchBar from "./SearchBar/SearchBar";
 import MainButtons from "./MainButtons/MainButtons";
 
 const Main = ({ searchingZone, searchingZoneTitle }) => {
-  const [zone, setZone] = useState(searchingZone);
+  const [zone, setZone] = useState(searchingZone ?? "ru");
 
   const classForTitle = searchingZoneTitle && "mx-auto";
 
