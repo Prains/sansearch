@@ -1,4 +1,4 @@
-// File: D:\Desktop\sansearch\app\@auth\register\page.jsx
+// File: /Users/igor/Desktop/projects/sansearch/app/@auth/register/page.jsx
 import * as entry from '../../../../../app/@auth/register/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

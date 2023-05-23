@@ -1,16 +1,6 @@
 {
   "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/@auth/page": "app/@auth/page.js",
-  "/reset-password/page": "app/reset-password/page.js",
-  "/@auth/forgot-password/page": "app/@auth/forgot-password/page.js",
-  "/@auth/access-error/page": "app/@auth/access-error/page.js",
-  "/@auth/control-test/page": "app/@auth/control-test/page.js",
   "/@auth/register/page": "app/@auth/register/page.js",
   "/@auth/login/page": "app/@auth/login/page.js",
-  "/document/[id]/page": "app/document/[id]/page.js",
-  "/sanctions/russia/page": "app/sanctions/russia/page.js",
-  "/(protected)/profile/page": "app/(protected)/profile/page.js",
-  "/(protected)/sanctions/eu/page": "app/(protected)/sanctions/eu/page.js",
-  "/(protected)/sanctions/usa/page": "app/(protected)/sanctions/usa/page.js"
+  "/@auth/forgot-password/page": "app/@auth/forgot-password/page.js"
 }

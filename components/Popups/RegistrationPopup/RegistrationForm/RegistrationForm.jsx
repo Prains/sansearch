@@ -79,7 +79,7 @@ const RegistrationForm = ({ policyUrl, concentToDataUrl }) => {
             href={links.backend + concentToDataUrl}
           >
             обработку персональных данных
-          </Link>
+          </Link>{" "}
           и соглашаетесь{" "}
           <Link
             className="text-sky-600 underline"

@@ -1,1 +1,4839 @@
-self.__RSC_MANIFEST={"ssrModuleMapping":{"99":{"*":{"id":"3751","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"":{"id":"3751","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"default":{"id":"3751","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false}},"221":{"*":{"id":"6413","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","209:static/chunks/app/sanctions/russia/error-d13b93b6fd8cdc16.js"],"async":false},"":{"id":"6413","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","209:static/chunks/app/sanctions/russia/error-d13b93b6fd8cdc16.js"],"async":false},"default":{"id":"6413","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","209:static/chunks/app/sanctions/russia/error-d13b93b6fd8cdc16.js"],"async":false}},"406":{"*":{"id":"4599","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"":{"id":"4599","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"default":{"id":"4599","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false}},"414":{"*":{"id":"53","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"":{"id":"53","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"default":{"id":"53","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false}},"452":{"*":{"id":"1366","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"":{"id":"1366","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"default":{"id":"1366","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false}},"1513":{"*":{"id":"2454","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"":{"id":"2454","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"default":{"id":"2454","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false}},"1524":{"*":{"id":"4098","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","478:static/chunks/app/(protected)/sanctions/eu/error-31e6d96486ef8bed.js"],"async":false},"":{"id":"4098","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","478:static/chunks/app/(protected)/sanctions/eu/error-31e6d96486ef8bed.js"],"async":false},"default":{"id":"4098","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","478:static/chunks/app/(protected)/sanctions/eu/error-31e6d96486ef8bed.js"],"async":false}},"1606":{"*":{"id":"1321","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"":{"id":"1321","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"default":{"id":"1321","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false}},"1785":{"*":{"id":"921","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"":{"id":"921","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"default":{"id":"921","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false}},"2009":{"*":{"id":"5297","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"":{"id":"5297","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"default":{"id":"5297","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false}},"2011":{"*":{"id":"408","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"":{"id":"408","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"default":{"id":"408","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false}},"2348":{"*":{"id":"3167","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"":{"id":"3167","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"default":{"id":"3167","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"RedirectErrorBoundary":{"id":"3167","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"RedirectBoundary":{"id":"3167","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"redirect":{"id":"3167","name":"redirect","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"redirectType":{"id":"3167","name":"redirectType","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"reset":{"id":"3167","name":"reset","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"router":{"id":"3167","name":"router","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"value":{"id":"3167","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false}},"2666":{"*":{"id":"2144","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"":{"id":"2144","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"suspense":{"id":"2144","name":"suspense","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"NoSSR":{"id":"2144","name":"NoSSR","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false}},"2869":{"*":{"id":"804","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","385:static/chunks/app/(protected)/sanctions/usa/error-e3f27a705d5e753e.js"],"async":false},"":{"id":"804","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","385:static/chunks/app/(protected)/sanctions/usa/error-e3f27a705d5e753e.js"],"async":false},"default":{"id":"804","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","385:static/chunks/app/(protected)/sanctions/usa/error-e3f27a705d5e753e.js"],"async":false}},"3032":{"*":{"id":"3099","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"":{"id":"3099","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"default":{"id":"3099","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false}},"3055":{"*":{"id":"4765","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"":{"id":"4765","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"default":{"id":"4765","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"ErrorBoundaryHandler":{"id":"4765","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"ErrorBoundary":{"id":"4765","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"error":{"id":"4765","name":"error","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"https":{"id":"4765","name":"https","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"fontFamily":{"id":"4765","name":"fontFamily","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"height":{"id":"4765","name":"height","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"textAlign":{"id":"4765","name":"textAlign","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"display":{"id":"4765","name":"display","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"flexDirection":{"id":"4765","name":"flexDirection","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"alignItems":{"id":"4765","name":"alignItems","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"justifyContent":{"id":"4765","name":"justifyContent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"desc":{"id":"4765","name":"desc","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"text":{"id":"4765","name":"text","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"fontSize":{"id":"4765","name":"fontSize","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"fontWeight":{"id":"4765","name":"fontWeight","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"lineHeight":{"id":"4765","name":"lineHeight","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"margin":{"id":"4765","name":"margin","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"previousPathname":{"id":"4765","name":"previousPathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"reset":{"id":"4765","name":"reset","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"style":{"id":"4765","name":"style","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"\"Digest":{"id":"4765","name":"\"Digest","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"pathname":{"id":"4765","name":"pathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"errorComponent":{"id":"4765","name":"errorComponent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"errorStyles":{"id":"4765","name":"errorStyles","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"value":{"id":"4765","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false}},"3104":{"*":{"id":"7304","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"":{"id":"7304","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"default":{"id":"7304","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false}},"3357":{"*":{"id":"4344","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"":{"id":"4344","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"default":{"id":"4344","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false}},"3914":{"*":{"id":"8235","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"":{"id":"8235","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"default":{"id":"8235","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false}},"4438":{"*":{"id":"2532","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"":{"id":"2532","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"default":{"id":"2532","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false}},"4561":{"*":{"id":"115","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"":{"id":"115","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"default":{"id":"115","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false}},"4870":{"*":{"id":"3829","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"":{"id":"3829","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"default":{"id":"3829","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false}},"5082":{"*":{"id":"4806","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"":{"id":"4806","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"default":{"id":"4806","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false}},"5348":{"*":{"id":"1478","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"":{"id":"1478","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"default":{"id":"1478","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false}},"5389":{"*":{"id":"8316","name":"*","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","363:static/chunks/app/reset-password/page-7d21573ed2ba9fe1.js"],"async":false},"":{"id":"8316","name":"","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","363:static/chunks/app/reset-password/page-7d21573ed2ba9fe1.js"],"async":false},"default":{"id":"8316","name":"default","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","363:static/chunks/app/reset-password/page-7d21573ed2ba9fe1.js"],"async":false}},"5509":{"*":{"id":"3720","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"":{"id":"3720","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"default":{"id":"3720","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false}},"5718":{"*":{"id":"2622","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"":{"id":"2622","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"default":{"id":"2622","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false}},"5766":{"*":{"id":"6551","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"":{"id":"6551","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"default":{"id":"6551","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false}},"5926":{"*":{"id":"5730","name":"*","chunks":["414:static/chunks/414-754629fb70d4ab88.js","351:static/chunks/app/@auth/forgot-password/page-4c5d045370b8c144.js"],"async":false},"":{"id":"5730","name":"","chunks":["414:static/chunks/414-754629fb70d4ab88.js","351:static/chunks/app/@auth/forgot-password/page-4c5d045370b8c144.js"],"async":false},"default":{"id":"5730","name":"default","chunks":["414:static/chunks/414-754629fb70d4ab88.js","351:static/chunks/app/@auth/forgot-password/page-4c5d045370b8c144.js"],"async":false}},"6156":{"*":{"id":"7031","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"":{"id":"7031","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"default":{"id":"7031","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false}},"6387":{"*":{"id":"4956","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"":{"id":"4956","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"default":{"id":"4956","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false}},"6458":{"*":{"id":"8488","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"":{"id":"8488","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"default":{"id":"8488","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false}},"6478":{"*":{"id":"5902","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"":{"id":"5902","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"default":{"id":"5902","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"useCheckDevice":{"id":"5902","name":"useCheckDevice","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false}},"7298":{"*":{"id":"7315","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"":{"id":"7315","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"default":{"id":"7315","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false}},"7421":{"*":{"id":"5259","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"":{"id":"5259","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"default":{"id":"5259","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false}},"7509":{"*":{"id":"7718","name":"*","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","535:static/chunks/app/@auth/register/page-011e54a65e7c5c2a.js"],"async":false},"":{"id":"7718","name":"","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","535:static/chunks/app/@auth/register/page-011e54a65e7c5c2a.js"],"async":false},"default":{"id":"7718","name":"default","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","535:static/chunks/app/@auth/register/page-011e54a65e7c5c2a.js"],"async":false}},"7858":{"*":{"id":"9222","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"":{"id":"9222","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"default":{"id":"9222","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"getServerActionDispatcher":{"id":"9222","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"urlToUrlWithoutFlightMarker":{"id":"9222","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"TODO-APP":{"id":"9222","name":"TODO-APP","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"__NA":{"id":"9222","name":"__NA","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"location":{"id":"9222","name":"location","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"\"http":{"id":"9222","name":"\"http","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"searchParams":{"id":"9222","name":"searchParams","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"pathname":{"id":"9222","name":"pathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"type":{"id":"9222","name":"type","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"cache":{"id":"9222","name":"cache","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"status":{"id":"9222","name":"status","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"data":{"id":"9222","name":"data","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"subTreeData":{"id":"9222","name":"subTreeData","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"parallelRoutes":{"id":"9222","name":"parallelRoutes","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"mutable":{"id":"9222","name":"mutable","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"isExternalUrl":{"id":"9222","name":"isExternalUrl","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"locationSearch":{"id":"9222","name":"locationSearch","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"back":{"id":"9222","name":"back","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"forward":{"id":"9222","name":"forward","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"prefetch":{"id":"9222","name":"prefetch","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"kind":{"id":"9222","name":"kind","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"replace":{"id":"9222","name":"replace","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"push":{"id":"9222","name":"push","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"refresh":{"id":"9222","name":"refresh","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"origin":{"id":"9222","name":"origin","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"fastRefresh":{"id":"9222","name":"fastRefresh","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"router":{"id":"9222","name":"router","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"(eg":{"id":"9222","name":"(eg","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"url":{"id":"9222","name":"url","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"tree":{"id":"9222","name":"tree","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"notFound":{"id":"9222","name":"notFound","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"notFoundStyles":{"id":"9222","name":"notFoundStyles","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"asNotFound":{"id":"9222","name":"asNotFound","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"pushRef":{"id":"9222","name":"pushRef","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"canonicalUrl":{"id":"9222","name":"canonicalUrl","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"sync":{"id":"9222","name":"sync","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"value":{"id":"9222","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"childNodes":{"id":"9222","name":"childNodes","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"assetPrefix":{"id":"9222","name":"assetPrefix","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"errorComponent":{"id":"9222","name":"errorComponent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false}},"8244":{"*":{"id":"1729","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","546:static/chunks/app/document/[id]/error-e5832814975c7a7b.js"],"async":false},"":{"id":"1729","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","546:static/chunks/app/document/[id]/error-e5832814975c7a7b.js"],"async":false},"default":{"id":"1729","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","546:static/chunks/app/document/[id]/error-e5832814975c7a7b.js"],"async":false}},"8358":{"*":{"id":"1025","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"":{"id":"1025","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"default":{"id":"1025","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false}},"8661":{"*":{"id":"9911","name":"*","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","648:static/chunks/app/(protected)/layout-bc51e663294f36cc.js"],"async":false},"":{"id":"9911","name":"","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","648:static/chunks/app/(protected)/layout-bc51e663294f36cc.js"],"async":false},"default":{"id":"9911","name":"default","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","648:static/chunks/app/(protected)/layout-bc51e663294f36cc.js"],"async":false}},"9254":{"*":{"id":"9309","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"":{"id":"9309","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"default":{"id":"9309","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false}},"9457":{"*":{"id":"5192","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"":{"id":"5192","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"default":{"id":"5192","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false}},"9544":{"*":{"id":"8301","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"":{"id":"8301","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"default":{"id":"8301","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false}},"9589":{"*":{"id":"1818","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"":{"id":"1818","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"default":{"id":"1818","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false}},"9619":{"*":{"id":"9630","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"":{"id":"9630","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"default":{"id":"9630","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"defaultHead":{"id":"9630","name":"defaultHead","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"charSet":{"id":"9630","name":"charSet","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"name":{"id":"9630","name":"name","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"content":{"id":"9630","name":"content","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"\"title\"":{"id":"9630","name":"\"title\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"\"base\"":{"id":"9630","name":"\"base\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"\"meta\"":{"id":"9630","name":"\"meta\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"TODO(prateekbh@)":{"id":"9630","name":"TODO(prateekbh@)","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"\"https":{"id":"9630","name":"\"https","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"here":{"id":"9630","name":"here","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"https":{"id":"9630","name":"https","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"reduceComponentsToState":{"id":"9630","name":"reduceComponentsToState","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"headManager":{"id":"9630","name":"headManager","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"inAmpMode":{"id":"9630","name":"inAmpMode","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"value":{"id":"9630","name":"value","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false}},"9839":{"*":{"id":"7729","name":"*","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false},"":{"id":"7729","name":"","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false},"default":{"id":"7729","name":"default","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false}}},"edgeSSRModuleMapping":{},"cssFiles":{"D:\\Desktop\\sansearch\\app\\layout":["static/css/6aac7c8ba47513bb.css"],"D:\\Desktop\\sansearch\\app\\@auth\\control-test\\page":["static/css/d0320de32467736e.css"]},"clientModules":{"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js":{"id":"7858","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js":{"id":"7858","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#":{"id":"7858","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#":{"id":"7858","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#default":{"id":"7858","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default":{"id":"7858","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher":{"id":"7858","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher":{"id":"7858","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker":{"id":"7858","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker":{"id":"7858","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP":{"id":"7858","name":"TODO-APP","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP":{"id":"7858","name":"TODO-APP","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA":{"id":"7858","name":"__NA","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA":{"id":"7858","name":"__NA","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#location":{"id":"7858","name":"location","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location":{"id":"7858","name":"location","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http":{"id":"7858","name":"\"http","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http":{"id":"7858","name":"\"http","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams":{"id":"7858","name":"searchParams","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams":{"id":"7858","name":"searchParams","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname":{"id":"7858","name":"pathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname":{"id":"7858","name":"pathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#type":{"id":"7858","name":"type","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type":{"id":"7858","name":"type","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#cache":{"id":"7858","name":"cache","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache":{"id":"7858","name":"cache","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#status":{"id":"7858","name":"status","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status":{"id":"7858","name":"status","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#data":{"id":"7858","name":"data","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data":{"id":"7858","name":"data","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData":{"id":"7858","name":"subTreeData","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData":{"id":"7858","name":"subTreeData","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes":{"id":"7858","name":"parallelRoutes","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes":{"id":"7858","name":"parallelRoutes","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable":{"id":"7858","name":"mutable","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable":{"id":"7858","name":"mutable","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl":{"id":"7858","name":"isExternalUrl","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl":{"id":"7858","name":"isExternalUrl","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch":{"id":"7858","name":"locationSearch","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch":{"id":"7858","name":"locationSearch","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#back":{"id":"7858","name":"back","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back":{"id":"7858","name":"back","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#forward":{"id":"7858","name":"forward","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward":{"id":"7858","name":"forward","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch":{"id":"7858","name":"prefetch","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch":{"id":"7858","name":"prefetch","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#kind":{"id":"7858","name":"kind","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind":{"id":"7858","name":"kind","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#replace":{"id":"7858","name":"replace","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace":{"id":"7858","name":"replace","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#push":{"id":"7858","name":"push","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push":{"id":"7858","name":"push","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh":{"id":"7858","name":"refresh","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh":{"id":"7858","name":"refresh","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#origin":{"id":"7858","name":"origin","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin":{"id":"7858","name":"origin","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh":{"id":"7858","name":"fastRefresh","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh":{"id":"7858","name":"fastRefresh","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#router":{"id":"7858","name":"router","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router":{"id":"7858","name":"router","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#(eg":{"id":"7858","name":"(eg","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#(eg":{"id":"7858","name":"(eg","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#url":{"id":"7858","name":"url","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url":{"id":"7858","name":"url","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#tree":{"id":"7858","name":"tree","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree":{"id":"7858","name":"tree","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound":{"id":"7858","name":"notFound","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound":{"id":"7858","name":"notFound","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles":{"id":"7858","name":"notFoundStyles","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles":{"id":"7858","name":"notFoundStyles","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound":{"id":"7858","name":"asNotFound","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound":{"id":"7858","name":"asNotFound","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef":{"id":"7858","name":"pushRef","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef":{"id":"7858","name":"pushRef","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl":{"id":"7858","name":"canonicalUrl","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl":{"id":"7858","name":"canonicalUrl","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#sync":{"id":"7858","name":"sync","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync":{"id":"7858","name":"sync","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#value":{"id":"7858","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value":{"id":"7858","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes":{"id":"7858","name":"childNodes","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes":{"id":"7858","name":"childNodes","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix":{"id":"7858","name":"assetPrefix","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix":{"id":"7858","name":"assetPrefix","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent":{"id":"7858","name":"errorComponent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent":{"id":"7858","name":"errorComponent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js":{"id":"3055","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js":{"id":"3055","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#":{"id":"3055","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#":{"id":"3055","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default":{"id":"3055","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default":{"id":"3055","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler":{"id":"3055","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler":{"id":"3055","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary":{"id":"3055","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary":{"id":"3055","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error":{"id":"3055","name":"error","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error":{"id":"3055","name":"error","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https":{"id":"3055","name":"https","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https":{"id":"3055","name":"https","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily":{"id":"3055","name":"fontFamily","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily":{"id":"3055","name":"fontFamily","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height":{"id":"3055","name":"height","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height":{"id":"3055","name":"height","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign":{"id":"3055","name":"textAlign","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign":{"id":"3055","name":"textAlign","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display":{"id":"3055","name":"display","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display":{"id":"3055","name":"display","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection":{"id":"3055","name":"flexDirection","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection":{"id":"3055","name":"flexDirection","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems":{"id":"3055","name":"alignItems","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems":{"id":"3055","name":"alignItems","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent":{"id":"3055","name":"justifyContent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent":{"id":"3055","name":"justifyContent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc":{"id":"3055","name":"desc","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc":{"id":"3055","name":"desc","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text":{"id":"3055","name":"text","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text":{"id":"3055","name":"text","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize":{"id":"3055","name":"fontSize","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize":{"id":"3055","name":"fontSize","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight":{"id":"3055","name":"fontWeight","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight":{"id":"3055","name":"fontWeight","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight":{"id":"3055","name":"lineHeight","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight":{"id":"3055","name":"lineHeight","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin":{"id":"3055","name":"margin","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin":{"id":"3055","name":"margin","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#previousPathname":{"id":"3055","name":"previousPathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#previousPathname":{"id":"3055","name":"previousPathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset":{"id":"3055","name":"reset","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset":{"id":"3055","name":"reset","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style":{"id":"3055","name":"style","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style":{"id":"3055","name":"style","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest":{"id":"3055","name":"\"Digest","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest":{"id":"3055","name":"\"Digest","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#pathname":{"id":"3055","name":"pathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#pathname":{"id":"3055","name":"pathname","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent":{"id":"3055","name":"errorComponent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent":{"id":"3055","name":"errorComponent","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles":{"id":"3055","name":"errorStyles","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles":{"id":"3055","name":"errorStyles","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value":{"id":"3055","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value":{"id":"3055","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\layout-router.js":{"id":"9544","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js":{"id":"9544","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\layout-router.js#":{"id":"9544","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#":{"id":"9544","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\layout-router.js#default":{"id":"9544","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default":{"id":"9544","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js":{"id":"2348","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js":{"id":"2348","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#":{"id":"2348","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#":{"id":"2348","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default":{"id":"2348","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default":{"id":"2348","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary":{"id":"2348","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary":{"id":"2348","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary":{"id":"2348","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary":{"id":"2348","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect":{"id":"2348","name":"redirect","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect":{"id":"2348","name":"redirect","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirectType":{"id":"2348","name":"redirectType","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirectType":{"id":"2348","name":"redirectType","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset":{"id":"2348","name":"reset","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset":{"id":"2348","name":"reset","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router":{"id":"2348","name":"router","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router":{"id":"2348","name":"router","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value":{"id":"2348","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value":{"id":"2348","name":"value","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js":{"id":"99","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js":{"id":"99","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#":{"id":"99","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#":{"id":"99","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default":{"id":"99","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default":{"id":"99","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js":{"id":"406","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js":{"id":"406","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#":{"id":"406","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#":{"id":"406","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default":{"id":"406","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default":{"id":"406","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js":{"id":"9457","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js":{"id":"9457","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#":{"id":"9457","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#":{"id":"9457","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default":{"id":"9457","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default":{"id":"9457","name":"default","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js":{"id":"6996","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js":{"id":"6996","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#":{"id":"6996","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#":{"id":"6996","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates":{"id":"6996","name":"CacheStates","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates":{"id":"6996","name":"CacheStates","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext":{"id":"6996","name":"AppRouterContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext":{"id":"6996","name":"AppRouterContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext":{"id":"6996","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext":{"id":"6996","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext":{"id":"6996","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext":{"id":"6996","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext":{"id":"6996","name":"TemplateContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext":{"id":"6996","name":"TemplateContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js":{"id":"9297","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js":{"id":"9297","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#":{"id":"9297","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#":{"id":"9297","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext":{"id":"9297","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext":{"id":"9297","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext":{"id":"9297","name":"PathnameContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext":{"id":"9297","name":"PathnameContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js":{"id":"190","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js":{"id":"190","name":"*","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#":{"id":"190","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#":{"id":"190","name":"","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext":{"id":"190","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext":{"id":"190","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML":{"id":"190","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML":{"id":"190","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-fea8f92cfc456d2c.js","667:static/chunks/2443530c-99c10e5179c82ffb.js","139:static/chunks/139-b686beeb264220ad.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\image.js":{"id":"2011","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\image.js":{"id":"2011","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\image.js#":{"id":"2011","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\image.js#":{"id":"2011","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\image.js#default":{"id":"2011","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\image.js#default":{"id":"2011","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js":{"id":"9619","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js":{"id":"9619","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#":{"id":"9619","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#":{"id":"9619","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#default":{"id":"9619","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default":{"id":"9619","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead":{"id":"9619","name":"defaultHead","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead":{"id":"9619","name":"defaultHead","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#charSet":{"id":"9619","name":"charSet","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#charSet":{"id":"9619","name":"charSet","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#name":{"id":"9619","name":"name","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#name":{"id":"9619","name":"name","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#content":{"id":"9619","name":"content","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#content":{"id":"9619","name":"content","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#\"title\"":{"id":"9619","name":"\"title\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"title\"":{"id":"9619","name":"\"title\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#\"base\"":{"id":"9619","name":"\"base\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"base\"":{"id":"9619","name":"\"base\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#\"meta\"":{"id":"9619","name":"\"meta\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"meta\"":{"id":"9619","name":"\"meta\"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#TODO(prateekbh@)":{"id":"9619","name":"TODO(prateekbh@)","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#TODO(prateekbh@)":{"id":"9619","name":"TODO(prateekbh@)","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#\"https":{"id":"9619","name":"\"https","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"https":{"id":"9619","name":"\"https","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#here":{"id":"9619","name":"here","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#here":{"id":"9619","name":"here","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#https":{"id":"9619","name":"https","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#https":{"id":"9619","name":"https","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#reduceComponentsToState":{"id":"9619","name":"reduceComponentsToState","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#reduceComponentsToState":{"id":"9619","name":"reduceComponentsToState","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#headManager":{"id":"9619","name":"headManager","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#headManager":{"id":"9619","name":"headManager","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#inAmpMode":{"id":"9619","name":"inAmpMode","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#inAmpMode":{"id":"9619","name":"inAmpMode","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\head.js#value":{"id":"9619","name":"value","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#value":{"id":"9619","name":"value","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\link.js":{"id":"414","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\link.js":{"id":"414","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\link.js#":{"id":"414","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\link.js#":{"id":"414","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\client\\link.js#default":{"id":"414","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\client\\link.js#default":{"id":"414","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\components\\MainPage\\Advantage\\AdvantageButton\\AdvantageButton.jsx":{"id":"7421","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\components\\MainPage\\Advantage\\AdvantageButton\\AdvantageButton.jsx#":{"id":"7421","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\components\\MainPage\\Advantage\\AdvantageButton\\AdvantageButton.jsx#default":{"id":"7421","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\components\\MainPage\\Advantage\\AdvantageList\\AdvantageList.jsx":{"id":"4561","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\components\\MainPage\\Advantage\\AdvantageList\\AdvantageList.jsx#":{"id":"4561","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\components\\MainPage\\Advantage\\AdvantageList\\AdvantageList.jsx#default":{"id":"4561","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\Main.jsx":{"id":"5766","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\Main.jsx#":{"id":"5766","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\Main.jsx#default":{"id":"5766","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\SearchBar\\SearchBar.jsx":{"id":"5766","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\SearchBar\\SearchBar.jsx#":{"id":"5766","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\SearchBar\\SearchBar.jsx#default":{"id":"5766","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Main\\5583949 1.png":{"id":"5766","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Main\\5583949 1.png#":{"id":"5766","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Main\\5583949 1.png#default":{"id":"5766","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\SearchBar\\MainInput\\MainInput.jsx":{"id":"5766","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\SearchBar\\MainInput\\MainInput.jsx#":{"id":"5766","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Main\\SearchBar\\MainInput\\MainInput.jsx#default":{"id":"5766","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Button.jsx":{"id":"1513","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Button.jsx#":{"id":"1513","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Button.jsx#default":{"id":"1513","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\icons8-search 1.svg":{"id":"6387","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\icons8-search 1.svg#":{"id":"6387","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\icons8-search 1.svg#default":{"id":"6387","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\done.svg":{"id":"6387","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\done.svg#":{"id":"6387","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\done.svg#default":{"id":"6387","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\menu.svg":{"id":"6387","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\menu.svg#":{"id":"6387","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\menu.svg#default":{"id":"6387","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\close.svg":{"id":"6387","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\close.svg#":{"id":"6387","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\close.svg#default":{"id":"6387","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\Profile-stroke.svg":{"id":"6387","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\Profile-stroke.svg#":{"id":"6387","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\Profile-stroke.svg#default":{"id":"6387","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\exitButton.svg":{"id":"6387","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\exitButton.svg#":{"id":"6387","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\exitButton.svg#default":{"id":"6387","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","846:static/chunks/app/(protected)/sanctions/usa/not-found-e2c58cfce86de2a7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\access-card-form-svgrepo-com 1.svg":{"id":"3032","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\access-card-form-svgrepo-com 1.svg#":{"id":"3032","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\access-card-form-svgrepo-com 1.svg#default":{"id":"3032","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\financial-report-svgrepo-com 1.svg":{"id":"5718","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\financial-report-svgrepo-com 1.svg#":{"id":"5718","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\financial-report-svgrepo-com 1.svg#default":{"id":"5718","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\internet-speed-svgrepo-com 1.svg":{"id":"1785","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\internet-speed-svgrepo-com 1.svg#":{"id":"1785","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\internet-speed-svgrepo-com 1.svg#default":{"id":"1785","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\platform-program-svgrepo-com.svg":{"id":"5082","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\platform-program-svgrepo-com.svg#":{"id":"5082","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\images\\Mainpage\\Valueables\\platform-program-svgrepo-com.svg#default":{"id":"5082","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","931:static/chunks/app/page-8e97a0eb2658d362.js"],"async":false},"D:\\Desktop\\sansearch\\app\\globals.css#":{"id":"null","name":"default","chunks":["static/css/6aac7c8ba47513bb.css"]},"D:\\Desktop\\sansearch\\components\\Footer\\FooterButton\\FooterButton.jsx":{"id":"4870","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Footer\\FooterButton\\FooterButton.jsx#":{"id":"4870","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Footer\\FooterButton\\FooterButton.jsx#default":{"id":"4870","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderBurger\\BurgerCloseButton\\BurgerCloseButton.jsx":{"id":"6458","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderBurger\\BurgerCloseButton\\BurgerCloseButton.jsx#":{"id":"6458","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderBurger\\BurgerCloseButton\\BurgerCloseButton.jsx#default":{"id":"6458","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLink\\HeaderLink.jsx":{"id":"4438","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLink\\HeaderLink.jsx#":{"id":"4438","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLink\\HeaderLink.jsx#default":{"id":"4438","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLoginButton\\HeaderLoginButton.jsx":{"id":"9254","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLoginButton\\HeaderLoginButton.jsx#":{"id":"9254","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLoginButton\\HeaderLoginButton.jsx#default":{"id":"9254","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLoginButton\\Dropdown\\Dropdown.jsx":{"id":"9254","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLoginButton\\Dropdown\\Dropdown.jsx#":{"id":"9254","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderLoginButton\\Dropdown\\Dropdown.jsx#default":{"id":"9254","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderOpenBurgerButton\\HeaderOpenBurgerButton.jsx":{"id":"2009","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderOpenBurgerButton\\HeaderOpenBurgerButton.jsx#":{"id":"2009","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderOpenBurgerButton\\HeaderOpenBurgerButton.jsx#default":{"id":"2009","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderBurger\\HeaderBurgerWrapper\\HeaderBurgerWrapper.jsx":{"id":"2009","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderBurger\\HeaderBurgerWrapper\\HeaderBurgerWrapper.jsx#":{"id":"2009","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Header\\HeaderBurger\\HeaderBurgerWrapper\\HeaderBurgerWrapper.jsx#default":{"id":"2009","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Providers\\index.jsx":{"id":"1606","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Providers\\index.jsx#":{"id":"1606","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Providers\\index.jsx#default":{"id":"1606","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Providers\\AuthProvider\\AuthProvider.jsx":{"id":"1606","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Providers\\AuthProvider\\AuthProvider.jsx#":{"id":"1606","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Providers\\AuthProvider\\AuthProvider.jsx#default":{"id":"1606","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Logo.jsx":{"id":"5509","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Logo.jsx#":{"id":"5509","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Logo.jsx#default":{"id":"5509","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\footerDesktop.svg":{"id":"5509","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\footerDesktop.svg#":{"id":"5509","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\footerDesktop.svg#default":{"id":"5509","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\footerMobile.svg":{"id":"5509","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\footerMobile.svg#":{"id":"5509","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\footerMobile.svg#default":{"id":"5509","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\headerDesktop.svg":{"id":"5509","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\headerDesktop.svg#":{"id":"5509","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\headerDesktop.svg#default":{"id":"5509","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\headerMobile.svg":{"id":"5509","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\headerMobile.svg#":{"id":"5509","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\logo\\headerMobile.svg#default":{"id":"5509","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","742:static/chunks/742-203b15151f084069.js","185:static/chunks/app/layout-981b928151b09116.js"],"async":false},"D:\\Desktop\\sansearch\\app\\reset-password\\page.jsx":{"id":"5389","name":"*","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","363:static/chunks/app/reset-password/page-7d21573ed2ba9fe1.js"],"async":false},"D:\\Desktop\\sansearch\\app\\reset-password\\page.jsx#":{"id":"5389","name":"","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","363:static/chunks/app/reset-password/page-7d21573ed2ba9fe1.js"],"async":false},"D:\\Desktop\\sansearch\\app\\reset-password\\page.jsx#default":{"id":"5389","name":"default","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","363:static/chunks/app/reset-password/page-7d21573ed2ba9fe1.js"],"async":false},"D:\\Desktop\\sansearch\\hooks\\useAuth.js":{"id":"8358","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"D:\\Desktop\\sansearch\\hooks\\useAuth.js#":{"id":"8358","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"D:\\Desktop\\sansearch\\hooks\\useAuth.js#default":{"id":"8358","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"D:\\Desktop\\sansearch\\app\\@auth\\forgot-password\\page.jsx":{"id":"5926","name":"*","chunks":["414:static/chunks/414-754629fb70d4ab88.js","351:static/chunks/app/@auth/forgot-password/page-4c5d045370b8c144.js"],"async":false},"D:\\Desktop\\sansearch\\app\\@auth\\forgot-password\\page.jsx#":{"id":"5926","name":"","chunks":["414:static/chunks/414-754629fb70d4ab88.js","351:static/chunks/app/@auth/forgot-password/page-4c5d045370b8c144.js"],"async":false},"D:\\Desktop\\sansearch\\app\\@auth\\forgot-password\\page.jsx#default":{"id":"5926","name":"default","chunks":["414:static/chunks/414-754629fb70d4ab88.js","351:static/chunks/app/@auth/forgot-password/page-4c5d045370b8c144.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Overlay.jsx":{"id":"3104","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Overlay.jsx#":{"id":"3104","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Overlay.jsx#default":{"id":"3104","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\app\\@auth\\access-error\\page.jsx":{"id":"9839","name":"*","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false},"D:\\Desktop\\sansearch\\app\\@auth\\access-error\\page.jsx#":{"id":"9839","name":"","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false},"D:\\Desktop\\sansearch\\app\\@auth\\access-error\\page.jsx#default":{"id":"9839","name":"default","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\AccesErrorPopup\\AccesErrorPopup.jsx":{"id":"9839","name":"*","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\AccesErrorPopup\\AccesErrorPopup.jsx#":{"id":"9839","name":"","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\AccesErrorPopup\\AccesErrorPopup.jsx#default":{"id":"9839","name":"default","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","830:static/chunks/app/@auth/access-error/page-695322a62c904143.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\LoginPopup\\LoginForm\\LoginForm.jsx":{"id":"3914","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\LoginPopup\\LoginForm\\LoginForm.jsx#":{"id":"3914","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\LoginPopup\\LoginForm\\LoginForm.jsx#default":{"id":"3914","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","566:static/chunks/app/@auth/login/page-55b837e4a0e3dd8d.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\react-circular-progressbar\\dist\\styles.css#":{"id":"null","name":"default","chunks":["static/css/d0320de32467736e.css"]},"D:\\Desktop\\sansearch\\components\\Popups\\QuestionsOfControl\\QuestionsOfControl.jsx":{"id":"6478","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\QuestionsOfControl\\QuestionsOfControl.jsx#":{"id":"6478","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\QuestionsOfControl\\QuestionsOfControl.jsx#default":{"id":"6478","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\QuestionsOfControl\\Question\\Question.jsx":{"id":"6478","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\QuestionsOfControl\\Question\\Question.jsx#":{"id":"6478","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\QuestionsOfControl\\Question\\Question.jsx#default":{"id":"6478","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\hooks\\useCheckDevice.js":{"id":"6478","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\hooks\\useCheckDevice.js#":{"id":"6478","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\hooks\\useCheckDevice.js#useCheckDevice":{"id":"6478","name":"useCheckDevice","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","890:static/chunks/app/@auth/control-test/page-ca428ee30a5df4c6.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\RegistrationPopup\\RegistrationForm\\RegistrationForm.jsx":{"id":"7509","name":"*","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","535:static/chunks/app/@auth/register/page-011e54a65e7c5c2a.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\RegistrationPopup\\RegistrationForm\\RegistrationForm.jsx#":{"id":"7509","name":"","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","535:static/chunks/app/@auth/register/page-011e54a65e7c5c2a.js"],"async":false},"D:\\Desktop\\sansearch\\components\\Popups\\RegistrationPopup\\RegistrationForm\\RegistrationForm.jsx#default":{"id":"7509","name":"default","chunks":["414:static/chunks/414-754629fb70d4ab88.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","535:static/chunks/app/@auth/register/page-011e54a65e7c5c2a.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js":{"id":"2666","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js":{"id":"2666","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#":{"id":"2666","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#":{"id":"2666","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#suspense":{"id":"2666","name":"suspense","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#suspense":{"id":"2666","name":"suspense","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#NoSSR":{"id":"2666","name":"NoSSR","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#NoSSR":{"id":"2666","name":"NoSSR","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\app\\document\\[id]\\error.jsx":{"id":"8244","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","546:static/chunks/app/document/[id]/error-e5832814975c7a7b.js"],"async":false},"D:\\Desktop\\sansearch\\app\\document\\[id]\\error.jsx#":{"id":"8244","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","546:static/chunks/app/document/[id]/error-e5832814975c7a7b.js"],"async":false},"D:\\Desktop\\sansearch\\app\\document\\[id]\\error.jsx#default":{"id":"8244","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","546:static/chunks/app/document/[id]/error-e5832814975c7a7b.js"],"async":false},"D:\\Desktop\\sansearch\\components\\SanctionsPage\\SearchingDocument\\SearchingDocument.jsx":{"id":"9589","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\components\\SanctionsPage\\SearchingDocument\\SearchingDocument.jsx#":{"id":"9589","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\components\\SanctionsPage\\SearchingDocument\\SearchingDocument.jsx#default":{"id":"9589","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Pagination\\Pagination.jsx":{"id":"9589","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Pagination\\Pagination.jsx#":{"id":"9589","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ui\\Pagination\\Pagination.jsx#default":{"id":"9589","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\arrows\\arrow-active.svg":{"id":"9589","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\arrows\\arrow-active.svg#":{"id":"9589","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\arrows\\arrow-active.svg#default":{"id":"9589","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\arrows\\arrow-disabled.svg":{"id":"9589","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\arrows\\arrow-disabled.svg#":{"id":"9589","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\images\\icons\\arrows\\arrow-disabled.svg#default":{"id":"9589","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","414:static/chunks/414-754629fb70d4ab88.js","777:static/chunks/777-51d47f2fdfdef894.js","129:static/chunks/app/(protected)/sanctions/usa/page-6071707e485fc10c.js"],"async":false},"D:\\Desktop\\sansearch\\app\\sanctions\\russia\\error.jsx":{"id":"221","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","209:static/chunks/app/sanctions/russia/error-d13b93b6fd8cdc16.js"],"async":false},"D:\\Desktop\\sansearch\\app\\sanctions\\russia\\error.jsx#":{"id":"221","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","209:static/chunks/app/sanctions/russia/error-d13b93b6fd8cdc16.js"],"async":false},"D:\\Desktop\\sansearch\\app\\sanctions\\russia\\error.jsx#default":{"id":"221","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","209:static/chunks/app/sanctions/russia/error-d13b93b6fd8cdc16.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ProtectedRoute\\ProtectedRoute.jsx":{"id":"8661","name":"*","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","648:static/chunks/app/(protected)/layout-bc51e663294f36cc.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ProtectedRoute\\ProtectedRoute.jsx#":{"id":"8661","name":"","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","648:static/chunks/app/(protected)/layout-bc51e663294f36cc.js"],"async":false},"D:\\Desktop\\sansearch\\components\\ProtectedRoute\\ProtectedRoute.jsx#default":{"id":"8661","name":"default","chunks":["628:static/chunks/628-ab5e08c163c6716a.js","648:static/chunks/app/(protected)/layout-bc51e663294f36cc.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\Buttons.jsx":{"id":"3357","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\Buttons.jsx#":{"id":"3357","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\Buttons.jsx#default":{"id":"3357","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\FormProfile\\FormProfile.jsx":{"id":"7298","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\FormProfile\\FormProfile.jsx#":{"id":"7298","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\FormProfile\\FormProfile.jsx#default":{"id":"7298","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\FormProfile\\LabelInput\\LabelInput.jsx":{"id":"7298","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\FormProfile\\LabelInput\\LabelInput.jsx#":{"id":"7298","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\FormProfile\\LabelInput\\LabelInput.jsx#default":{"id":"7298","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\ProfileDeletePopup\\ProfileDeletePopup.jsx":{"id":"7298","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\ProfileDeletePopup\\ProfileDeletePopup.jsx#":{"id":"7298","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalProfile\\ProfileDeletePopup\\ProfileDeletePopup.jsx#default":{"id":"7298","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\PersonalSubscription.jsx":{"id":"6156","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\PersonalSubscription.jsx#":{"id":"6156","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\PersonalSubscription.jsx#default":{"id":"6156","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\SubscriptionPopup\\FormSend\\FormSend.jsx":{"id":"6156","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\SubscriptionPopup\\FormSend\\FormSend.jsx#":{"id":"6156","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\SubscriptionPopup\\FormSend\\FormSend.jsx#default":{"id":"6156","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\SubscriptionPopup\\FormSend\\InputSend\\InputSend.jsx":{"id":"6156","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\SubscriptionPopup\\FormSend\\InputSend\\InputSend.jsx#":{"id":"6156","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\components\\PersonalPages\\PersonalCabinet\\PersonalSubscription\\SubscriptionPopup\\FormSend\\InputSend\\InputSend.jsx#default":{"id":"6156","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\PersonalPages\\avatar.svg":{"id":"5348","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\PersonalPages\\avatar.svg#":{"id":"5348","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\PersonalPages\\avatar.svg#default":{"id":"5348","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\PersonalPages\\background.png":{"id":"452","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\PersonalPages\\background.png#":{"id":"452","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\images\\PersonalPages\\background.png#default":{"id":"452","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","628:static/chunks/628-ab5e08c163c6716a.js","539:static/chunks/539-55f6bc08e53fc023.js","551:static/chunks/app/(protected)/profile/page-a95270b2b45b59d7.js"],"async":false},"D:\\Desktop\\sansearch\\app\\(protected)\\sanctions\\eu\\error.jsx":{"id":"1524","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","478:static/chunks/app/(protected)/sanctions/eu/error-31e6d96486ef8bed.js"],"async":false},"D:\\Desktop\\sansearch\\app\\(protected)\\sanctions\\eu\\error.jsx#":{"id":"1524","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","478:static/chunks/app/(protected)/sanctions/eu/error-31e6d96486ef8bed.js"],"async":false},"D:\\Desktop\\sansearch\\app\\(protected)\\sanctions\\eu\\error.jsx#default":{"id":"1524","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","478:static/chunks/app/(protected)/sanctions/eu/error-31e6d96486ef8bed.js"],"async":false},"D:\\Desktop\\sansearch\\app\\(protected)\\sanctions\\usa\\error.jsx":{"id":"2869","name":"*","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","385:static/chunks/app/(protected)/sanctions/usa/error-e3f27a705d5e753e.js"],"async":false},"D:\\Desktop\\sansearch\\app\\(protected)\\sanctions\\usa\\error.jsx#":{"id":"2869","name":"","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","385:static/chunks/app/(protected)/sanctions/usa/error-e3f27a705d5e753e.js"],"async":false},"D:\\Desktop\\sansearch\\app\\(protected)\\sanctions\\usa\\error.jsx#default":{"id":"2869","name":"default","chunks":["891:static/chunks/891-12e4477a015b0fb7.js","385:static/chunks/app/(protected)/sanctions/usa/error-e3f27a705d5e753e.js"],"async":false}}}
+self.__RSC_MANIFEST={
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "getServerActionDispatcher": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "getServerActionDispatcher",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "urlToUrlWithoutFlightMarker": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "urlToUrlWithoutFlightMarker",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "TODO-APP": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "TODO-APP",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "__NA": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "__NA",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "location": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "location",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "\"http": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "\"http",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "searchParams": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "searchParams",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "pathname": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "pathname",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "type": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "type",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "cache": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "cache",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "status": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "status",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "data": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "data",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "subTreeData": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "subTreeData",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "parallelRoutes": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "parallelRoutes",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "mutable": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "mutable",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "isExternalUrl": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "isExternalUrl",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "locationSearch": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "locationSearch",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "back": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "back",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "forward": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "forward",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "prefetch": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "prefetch",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "kind": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "kind",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "replace": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "replace",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "push": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "push",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "refresh": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "refresh",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "origin": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "origin",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "fastRefresh": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "fastRefresh",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "router": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "router",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "(eg": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "(eg",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "url": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "url",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "tree": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "tree",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "notFound": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "notFound",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "notFoundStyles": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "notFoundStyles",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "asNotFound": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "asNotFound",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "pushRef": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "pushRef",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "canonicalUrl": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "canonicalUrl",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "sync": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "sync",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "value",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "childNodes": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "childNodes",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "assetPrefix": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "assetPrefix",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "errorComponent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "errorComponent",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundaryHandler": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundaryHandler",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "error": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "error",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "https",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "fontFamily": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontFamily",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "height": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "height",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "textAlign": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "textAlign",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "display": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "display",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "flexDirection": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "flexDirection",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "alignItems": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "alignItems",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "justifyContent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "justifyContent",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "desc": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "desc",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "text": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "text",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "fontSize": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontSize",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "fontWeight": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontWeight",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "lineHeight": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "lineHeight",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "margin": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "margin",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "reset": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "reset",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "style": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "style",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "\"Digest": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "\"Digest",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "errorComponent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "errorComponent",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "errorStyles": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "errorStyles",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "value",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "RedirectErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectErrorBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "RedirectBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "redirect": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "redirect",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "redirectType": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "redirectType",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "reset": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "reset",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "router": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "router",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "value",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/Profile-stroke.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/Profile-stroke.svg",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/Profile-stroke.svg",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/Profile-stroke.svg",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/close.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/close.svg",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/close.svg",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/close.svg",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/done.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/done.svg",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/done.svg",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/done.svg",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/exitButton.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/exitButton.svg",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/exitButton.svg",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/exitButton.svg",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/icons8-search 1.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/icons8-search 1.svg",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/icons8-search 1.svg",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/icons8-search 1.svg",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/logo/footerDesktop.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/logo/footerDesktop.svg",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/logo/footerDesktop.svg",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/logo/footerDesktop.svg",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/logo/footerMobile.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/logo/footerMobile.svg",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/logo/footerMobile.svg",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/logo/footerMobile.svg",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/logo/headerDesktop.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/logo/headerDesktop.svg",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/logo/headerDesktop.svg",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/logo/headerDesktop.svg",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/logo/headerMobile.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/logo/headerMobile.svg",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/logo/headerMobile.svg",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/logo/headerMobile.svg",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/icons/menu.svg": {
+      "*": {
+        "id": "(sc_client)/./images/icons/menu.svg",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/icons/menu.svg",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/icons/menu.svg",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Footer/FooterButton/FooterButton.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Footer/FooterButton/FooterButton.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Footer/FooterButton/FooterButton.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Footer/FooterButton/FooterButton.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Header/HeaderLink/HeaderLink.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Header/HeaderLink/HeaderLink.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Header/HeaderLink/HeaderLink.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Header/HeaderLink/HeaderLink.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Header/HeaderLoginButton/HeaderLoginButton.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Header/HeaderLoginButton/HeaderLoginButton.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Header/HeaderLoginButton/HeaderLoginButton.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Header/HeaderLoginButton/HeaderLoginButton.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Providers/AuthProvider/AuthProvider.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Providers/AuthProvider/AuthProvider.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Providers/AuthProvider/AuthProvider.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Providers/AuthProvider/AuthProvider.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Providers/index.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Providers/index.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Providers/index.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Providers/index.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/Button.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/Button.jsx",
+        "name": "*",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/Button.jsx",
+        "name": "",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/Button.jsx",
+        "name": "default",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/Logo.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/Logo.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/Logo.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/Logo.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "charSet": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "charSet",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "name": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "name",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "content": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "content",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "\"title\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"title\"",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "\"base\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"base\"",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "\"meta\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"meta\"",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "TODO(prateekbh@)": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "TODO(prateekbh@)",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "\"https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"https",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "here": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "here",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "https",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "reduceComponentsToState": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "reduceComponentsToState",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "headManager": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "headManager",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "inAmpMode": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "inAmpMode",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "value",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/Mainpage/Main/5583949 1.png": {
+      "*": {
+        "id": "(sc_client)/./images/Mainpage/Main/5583949 1.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/Mainpage/Main/5583949 1.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/Mainpage/Main/5583949 1.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg": {
+      "*": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg": {
+      "*": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg": {
+      "*": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./images/Mainpage/Valueables/platform-program-svgrepo-com.svg": {
+      "*": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/platform-program-svgrepo-com.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/platform-program-svgrepo-com.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./images/Mainpage/Valueables/platform-program-svgrepo-com.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Main/Main.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Main/Main.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Main/Main.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Main/Main.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Main/SearchBar/MainInput/MainInput.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Main/SearchBar/MainInput/MainInput.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Main/SearchBar/MainInput/MainInput.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Main/SearchBar/MainInput/MainInput.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Main/SearchBar/SearchBar.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Main/SearchBar/SearchBar.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Main/SearchBar/SearchBar.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Main/SearchBar/SearchBar.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/MainPage/Advantage/AdvantageList/AdvantageList.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/MainPage/Advantage/AdvantageList/AdvantageList.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/MainPage/Advantage/AdvantageList/AdvantageList.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/MainPage/Advantage/AdvantageList/AdvantageList.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Popups/LoginPopup/LoginForm/LoginForm.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Popups/LoginPopup/LoginForm/LoginForm.jsx",
+        "name": "*",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Popups/LoginPopup/LoginForm/LoginForm.jsx",
+        "name": "",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Popups/LoginPopup/LoginForm/LoginForm.jsx",
+        "name": "default",
+        "chunks": [
+          "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/Overlay.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/Overlay.jsx",
+        "name": "*",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/Overlay.jsx",
+        "name": "",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/Overlay.jsx",
+        "name": "default",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./hooks/useAuth.js": {
+      "*": {
+        "id": "(sc_client)/./hooks/useAuth.js",
+        "name": "*",
+        "chunks": [
+          "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./hooks/useAuth.js",
+        "name": "",
+        "chunks": [
+          "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./hooks/useAuth.js",
+        "name": "default",
+        "chunks": [
+          "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx",
+        "name": "*",
+        "chunks": [
+          "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx",
+        "name": "",
+        "chunks": [
+          "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx",
+        "name": "default",
+        "chunks": [
+          "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/@auth/forgot-password/page.jsx": {
+      "*": {
+        "id": "(sc_client)/./app/@auth/forgot-password/page.jsx",
+        "name": "*",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/@auth/forgot-password/page.jsx",
+        "name": "",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/@auth/forgot-password/page.jsx",
+        "name": "default",
+        "chunks": [
+          "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+        ],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "cssFiles": {
+    "/Users/igor/Desktop/projects/sansearch/app/layout": [
+      "static/css/app/layout.css"
+    ]
+  },
+  "clientModules": {
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#TODO-APP": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "TODO-APP",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#TODO-APP": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "TODO-APP",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#__NA": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "__NA",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#__NA": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "__NA",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#location": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "location",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#location": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "location",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#\"http": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "\"http",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#\"http": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "\"http",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#searchParams": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "searchParams",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#searchParams": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "searchParams",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#pathname": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pathname",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#pathname": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pathname",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#type": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "type",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#type": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "type",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#cache": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "cache",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#cache": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "cache",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#status": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "status",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#status": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "status",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#data": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "data",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#data": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "data",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#subTreeData": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "subTreeData",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#subTreeData": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "subTreeData",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#parallelRoutes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "parallelRoutes",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#parallelRoutes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "parallelRoutes",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#mutable": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "mutable",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#mutable": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "mutable",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#isExternalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "isExternalUrl",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#isExternalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "isExternalUrl",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#locationSearch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "locationSearch",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#locationSearch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "locationSearch",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#back": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "back",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#back": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "back",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#forward": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "forward",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#forward": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "forward",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#prefetch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "prefetch",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#prefetch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "prefetch",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#kind": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "kind",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#kind": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "kind",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#replace": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "replace",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#replace": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "replace",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#push": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "push",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#push": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "push",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#refresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "refresh",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#refresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "refresh",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#origin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "origin",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#origin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "origin",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#fastRefresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "fastRefresh",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#fastRefresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "fastRefresh",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "router",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "router",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#(eg": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "(eg",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#(eg": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "(eg",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#url": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "url",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#url": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "url",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#tree": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "tree",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#tree": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "tree",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#notFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFound",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#notFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFound",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#notFoundStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFoundStyles",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#notFoundStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFoundStyles",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#asNotFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "asNotFound",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#asNotFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "asNotFound",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#pushRef": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pushRef",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#pushRef": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pushRef",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#canonicalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "canonicalUrl",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#canonicalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "canonicalUrl",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#sync": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "sync",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#sync": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "sync",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "value",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "value",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#childNodes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "childNodes",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#childNodes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "childNodes",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#assetPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "assetPrefix",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#assetPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "assetPrefix",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/app-router.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "errorComponent",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/app-router.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "errorComponent",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#error": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "error",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#error": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "error",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "https",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "https",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#fontFamily": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontFamily",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#fontFamily": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontFamily",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#height": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "height",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#height": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "height",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#textAlign": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "textAlign",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#textAlign": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "textAlign",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#display": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "display",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#display": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "display",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#flexDirection": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "flexDirection",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#flexDirection": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "flexDirection",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#alignItems": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "alignItems",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#alignItems": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "alignItems",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#justifyContent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "justifyContent",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#justifyContent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "justifyContent",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#desc": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "desc",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#desc": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "desc",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#text": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "text",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#text": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "text",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#fontSize": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontSize",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#fontSize": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontSize",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#fontWeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontWeight",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#fontWeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontWeight",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#lineHeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "lineHeight",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#lineHeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "lineHeight",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#margin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "margin",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#margin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "margin",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#style": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "style",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#style": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "style",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#\"Digest": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "\"Digest",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#\"Digest": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "\"Digest",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorComponent",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorComponent",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#errorStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorStyles",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#errorStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorStyles",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/error-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "value",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/error-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "value",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#redirect": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "redirect",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirect": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "redirect",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#redirectType": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "redirectType",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirectType": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "redirectType",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "router",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "router",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/redirect-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "value",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/redirect-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "value",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/Profile-stroke.svg": {
+      "id": "(app-client)/./images/icons/Profile-stroke.svg",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/Profile-stroke.svg#": {
+      "id": "(app-client)/./images/icons/Profile-stroke.svg",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/Profile-stroke.svg#default": {
+      "id": "(app-client)/./images/icons/Profile-stroke.svg",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/close.svg": {
+      "id": "(app-client)/./images/icons/close.svg",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/close.svg#": {
+      "id": "(app-client)/./images/icons/close.svg",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/close.svg#default": {
+      "id": "(app-client)/./images/icons/close.svg",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/done.svg": {
+      "id": "(app-client)/./images/icons/done.svg",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/done.svg#": {
+      "id": "(app-client)/./images/icons/done.svg",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/done.svg#default": {
+      "id": "(app-client)/./images/icons/done.svg",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/exitButton.svg": {
+      "id": "(app-client)/./images/icons/exitButton.svg",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/exitButton.svg#": {
+      "id": "(app-client)/./images/icons/exitButton.svg",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/exitButton.svg#default": {
+      "id": "(app-client)/./images/icons/exitButton.svg",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/icons8-search 1.svg": {
+      "id": "(app-client)/./images/icons/icons8-search 1.svg",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/icons8-search 1.svg#": {
+      "id": "(app-client)/./images/icons/icons8-search 1.svg",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/icons8-search 1.svg#default": {
+      "id": "(app-client)/./images/icons/icons8-search 1.svg",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/footerDesktop.svg": {
+      "id": "(app-client)/./images/icons/logo/footerDesktop.svg",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/footerDesktop.svg#": {
+      "id": "(app-client)/./images/icons/logo/footerDesktop.svg",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/footerDesktop.svg#default": {
+      "id": "(app-client)/./images/icons/logo/footerDesktop.svg",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/footerMobile.svg": {
+      "id": "(app-client)/./images/icons/logo/footerMobile.svg",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/footerMobile.svg#": {
+      "id": "(app-client)/./images/icons/logo/footerMobile.svg",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/footerMobile.svg#default": {
+      "id": "(app-client)/./images/icons/logo/footerMobile.svg",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/headerDesktop.svg": {
+      "id": "(app-client)/./images/icons/logo/headerDesktop.svg",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/headerDesktop.svg#": {
+      "id": "(app-client)/./images/icons/logo/headerDesktop.svg",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/headerDesktop.svg#default": {
+      "id": "(app-client)/./images/icons/logo/headerDesktop.svg",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/headerMobile.svg": {
+      "id": "(app-client)/./images/icons/logo/headerMobile.svg",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/headerMobile.svg#": {
+      "id": "(app-client)/./images/icons/logo/headerMobile.svg",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/logo/headerMobile.svg#default": {
+      "id": "(app-client)/./images/icons/logo/headerMobile.svg",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/menu.svg": {
+      "id": "(app-client)/./images/icons/menu.svg",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/menu.svg#": {
+      "id": "(app-client)/./images/icons/menu.svg",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/icons/menu.svg#default": {
+      "id": "(app-client)/./images/icons/menu.svg",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Footer/FooterButton/FooterButton.jsx": {
+      "id": "(app-client)/./components/Footer/FooterButton/FooterButton.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Footer/FooterButton/FooterButton.jsx#": {
+      "id": "(app-client)/./components/Footer/FooterButton/FooterButton.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Footer/FooterButton/FooterButton.jsx#default": {
+      "id": "(app-client)/./components/Footer/FooterButton/FooterButton.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx": {
+      "id": "(app-client)/./components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx#": {
+      "id": "(app-client)/./components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx#default": {
+      "id": "(app-client)/./components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton.jsx",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx": {
+      "id": "(app-client)/./components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx#": {
+      "id": "(app-client)/./components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx#default": {
+      "id": "(app-client)/./components/Header/HeaderBurger/HeaderBurgerWrapper/HeaderBurgerWrapper.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLink/HeaderLink.jsx": {
+      "id": "(app-client)/./components/Header/HeaderLink/HeaderLink.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLink/HeaderLink.jsx#": {
+      "id": "(app-client)/./components/Header/HeaderLink/HeaderLink.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLink/HeaderLink.jsx#default": {
+      "id": "(app-client)/./components/Header/HeaderLink/HeaderLink.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx": {
+      "id": "(app-client)/./components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx#": {
+      "id": "(app-client)/./components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx#default": {
+      "id": "(app-client)/./components/Header/HeaderLoginButton/Dropdown/Dropdown.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLoginButton/HeaderLoginButton.jsx": {
+      "id": "(app-client)/./components/Header/HeaderLoginButton/HeaderLoginButton.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLoginButton/HeaderLoginButton.jsx#": {
+      "id": "(app-client)/./components/Header/HeaderLoginButton/HeaderLoginButton.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderLoginButton/HeaderLoginButton.jsx#default": {
+      "id": "(app-client)/./components/Header/HeaderLoginButton/HeaderLoginButton.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx": {
+      "id": "(app-client)/./components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx#": {
+      "id": "(app-client)/./components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx#default": {
+      "id": "(app-client)/./components/Header/HeaderOpenBurgerButton/HeaderOpenBurgerButton.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Providers/AuthProvider/AuthProvider.jsx": {
+      "id": "(app-client)/./components/Providers/AuthProvider/AuthProvider.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Providers/AuthProvider/AuthProvider.jsx#": {
+      "id": "(app-client)/./components/Providers/AuthProvider/AuthProvider.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Providers/AuthProvider/AuthProvider.jsx#default": {
+      "id": "(app-client)/./components/Providers/AuthProvider/AuthProvider.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Providers/index.jsx": {
+      "id": "(app-client)/./components/Providers/index.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Providers/index.jsx#": {
+      "id": "(app-client)/./components/Providers/index.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Providers/index.jsx#default": {
+      "id": "(app-client)/./components/Providers/index.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Button.jsx": {
+      "id": "(app-client)/./components/ui/Button.jsx",
+      "name": "*",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Button.jsx#": {
+      "id": "(app-client)/./components/ui/Button.jsx",
+      "name": "",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Button.jsx#default": {
+      "id": "(app-client)/./components/ui/Button.jsx",
+      "name": "default",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Logo.jsx": {
+      "id": "(app-client)/./components/ui/Logo.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Logo.jsx#": {
+      "id": "(app-client)/./components/ui/Logo.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Logo.jsx#default": {
+      "id": "(app-client)/./components/ui/Logo.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/shared/lib/head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/node_modules/next/dist/esm/shared/lib/head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Main/5583949 1.png": {
+      "id": "(app-client)/./images/Mainpage/Main/5583949 1.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Main/5583949 1.png#": {
+      "id": "(app-client)/./images/Mainpage/Main/5583949 1.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Main/5583949 1.png#default": {
+      "id": "(app-client)/./images/Mainpage/Main/5583949 1.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg": {
+      "id": "(app-client)/./images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg#": {
+      "id": "(app-client)/./images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg#default": {
+      "id": "(app-client)/./images/Mainpage/Valueables/access-card-form-svgrepo-com 1.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg": {
+      "id": "(app-client)/./images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg#": {
+      "id": "(app-client)/./images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg#default": {
+      "id": "(app-client)/./images/Mainpage/Valueables/financial-report-svgrepo-com 1.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg": {
+      "id": "(app-client)/./images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg#": {
+      "id": "(app-client)/./images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg#default": {
+      "id": "(app-client)/./images/Mainpage/Valueables/internet-speed-svgrepo-com 1.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/platform-program-svgrepo-com.svg": {
+      "id": "(app-client)/./images/Mainpage/Valueables/platform-program-svgrepo-com.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/platform-program-svgrepo-com.svg#": {
+      "id": "(app-client)/./images/Mainpage/Valueables/platform-program-svgrepo-com.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/images/Mainpage/Valueables/platform-program-svgrepo-com.svg#default": {
+      "id": "(app-client)/./images/Mainpage/Valueables/platform-program-svgrepo-com.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/Main.jsx": {
+      "id": "(app-client)/./components/Main/Main.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/Main.jsx#": {
+      "id": "(app-client)/./components/Main/Main.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/Main.jsx#default": {
+      "id": "(app-client)/./components/Main/Main.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/SearchBar/MainInput/MainInput.jsx": {
+      "id": "(app-client)/./components/Main/SearchBar/MainInput/MainInput.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/SearchBar/MainInput/MainInput.jsx#": {
+      "id": "(app-client)/./components/Main/SearchBar/MainInput/MainInput.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/SearchBar/MainInput/MainInput.jsx#default": {
+      "id": "(app-client)/./components/Main/SearchBar/MainInput/MainInput.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/SearchBar/SearchBar.jsx": {
+      "id": "(app-client)/./components/Main/SearchBar/SearchBar.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/SearchBar/SearchBar.jsx#": {
+      "id": "(app-client)/./components/Main/SearchBar/SearchBar.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Main/SearchBar/SearchBar.jsx#default": {
+      "id": "(app-client)/./components/Main/SearchBar/SearchBar.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx": {
+      "id": "(app-client)/./components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx#": {
+      "id": "(app-client)/./components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx#default": {
+      "id": "(app-client)/./components/MainPage/Advantage/AdvantageButton/AdvantageButton.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/MainPage/Advantage/AdvantageList/AdvantageList.jsx": {
+      "id": "(app-client)/./components/MainPage/Advantage/AdvantageList/AdvantageList.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/MainPage/Advantage/AdvantageList/AdvantageList.jsx#": {
+      "id": "(app-client)/./components/MainPage/Advantage/AdvantageList/AdvantageList.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/MainPage/Advantage/AdvantageList/AdvantageList.jsx#default": {
+      "id": "(app-client)/./components/MainPage/Advantage/AdvantageList/AdvantageList.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Popups/LoginPopup/LoginForm/LoginForm.jsx": {
+      "id": "(app-client)/./components/Popups/LoginPopup/LoginForm/LoginForm.jsx",
+      "name": "*",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Popups/LoginPopup/LoginForm/LoginForm.jsx#": {
+      "id": "(app-client)/./components/Popups/LoginPopup/LoginForm/LoginForm.jsx",
+      "name": "",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Popups/LoginPopup/LoginForm/LoginForm.jsx#default": {
+      "id": "(app-client)/./components/Popups/LoginPopup/LoginForm/LoginForm.jsx",
+      "name": "default",
+      "chunks": [
+        "app/@auth/login/page:static/chunks/app/@auth/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Overlay.jsx": {
+      "id": "(app-client)/./components/ui/Overlay.jsx",
+      "name": "*",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Overlay.jsx#": {
+      "id": "(app-client)/./components/ui/Overlay.jsx",
+      "name": "",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/ui/Overlay.jsx#default": {
+      "id": "(app-client)/./components/ui/Overlay.jsx",
+      "name": "default",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/hooks/useAuth.js": {
+      "id": "(app-client)/./hooks/useAuth.js",
+      "name": "*",
+      "chunks": [
+        "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/hooks/useAuth.js#": {
+      "id": "(app-client)/./hooks/useAuth.js",
+      "name": "",
+      "chunks": [
+        "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/hooks/useAuth.js#default": {
+      "id": "(app-client)/./hooks/useAuth.js",
+      "name": "default",
+      "chunks": [
+        "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx": {
+      "id": "(app-client)/./components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx",
+      "name": "*",
+      "chunks": [
+        "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx#": {
+      "id": "(app-client)/./components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx",
+      "name": "",
+      "chunks": [
+        "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx#default": {
+      "id": "(app-client)/./components/Popups/RegistrationPopup/RegistrationForm/RegistrationForm.jsx",
+      "name": "default",
+      "chunks": [
+        "app/@auth/register/page:static/chunks/app/@auth/register/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/app/@auth/forgot-password/page.jsx": {
+      "id": "(app-client)/./app/@auth/forgot-password/page.jsx",
+      "name": "*",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/app/@auth/forgot-password/page.jsx#": {
+      "id": "(app-client)/./app/@auth/forgot-password/page.jsx",
+      "name": "",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igor/Desktop/projects/sansearch/app/@auth/forgot-password/page.jsx#default": {
+      "id": "(app-client)/./app/@auth/forgot-password/page.jsx",
+      "name": "default",
+      "chunks": [
+        "app/@auth/forgot-password/page:static/chunks/app/@auth/forgot-password/page.js"
+      ],
+      "async": false
+    }
+  }
+}
