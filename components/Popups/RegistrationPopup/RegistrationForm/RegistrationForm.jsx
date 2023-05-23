@@ -7,17 +7,13 @@ import auth from "@/utils/auth";
 import useAuth from "@/hooks/useAuth";
 import ErrorMessage from "@/components/ui/ErrorMessage";
 import { useState } from "react";
-import { getFileUrlForPrivacyDocuments } from "@/utils/fetchData";
 
-const RegistrationForm = async () => {
+const RegistrationForm = ({ policyUrl, concentToDataUrl }) => {
   const [name, nameChange] = useInput("");
   const [email, emailChange] = useInput("");
   const [password, passwordChange] = useInput("");
   const [error, setError] = useState(false);
   const authHandler = useAuth();
-
-  const policyUrl = await getFileUrlForPrivacyDocuments("policy");
-  const concentToDataUrl = await getFileUrlForPrivacyDocuments("concentToData");
 
   const inputList = [
     {
@@ -76,15 +72,15 @@ const RegistrationForm = async () => {
       <div className="flex-center items-start gap-[10px]">
         <input type="checkbox" className="mt-2 w-[20px] h-[20px]" required />
         <p className="inline my-0 text-[12px] flex-center-col items-start text-[#939393] lg:text-[18px]">
-          Оставляя свои контактные данные, Вы даёте согласие на{" "}
+          Оставляя свои контактные данные, Вы даёте согласие на
           <Link
             className="text-sky-600 underline"
             target="_blank"
             href={links.backend + concentToDataUrl}
           >
             обработку персональных данных
-          </Link>{" "}
-          и соглашаетесь{" "}
+          </Link>
+          и соглашаетесь
           <Link
             className="text-sky-600 underline"
             target="_blank"

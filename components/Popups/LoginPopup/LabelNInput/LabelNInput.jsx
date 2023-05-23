@@ -2,8 +2,8 @@ const LabelNInput = ({
   label,
   placeholder,
   htmlType,
-  onChange = null,
-  value = null,
+  onChange,
+  value,
   className,
   minLength,
 }) => {

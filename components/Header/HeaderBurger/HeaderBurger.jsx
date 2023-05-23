@@ -3,8 +3,6 @@ import BurgerCloseButton from "./BurgerCloseButton/BurgerCloseButton";
 import HeaderNavList from "../HeaderNavList/HeaderNavList";
 import HeaderLoginButton from "../HeaderLoginButton/HeaderLoginButton";
 import HeaderBurgerWrapper from "./HeaderBurgerWrapper/HeaderBurgerWrapper";
-import HeaderLink from "../HeaderLink/HeaderLink";
-import links from "@/utils/links";
 
 const HeaderBurger = ({ close, list }) => {
   return (
@@ -16,9 +14,6 @@ const HeaderBurger = ({ close, list }) => {
         </article>
         <ul className="flex items-center justify-center flex-col gap-10">
           <HeaderNavList list={list} close={close} />
-          <HeaderLink href={links.controlTest} close={close}>
-            Тест ЕС - критерий контроля
-          </HeaderLink>
         </ul>
         <HeaderLoginButton href="/" burger close={close}>
           Войти

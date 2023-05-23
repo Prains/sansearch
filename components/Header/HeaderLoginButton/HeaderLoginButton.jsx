@@ -8,6 +8,7 @@ import token from "@/utils/token";
 import Link from "next/link";
 import links from "@/utils/links";
 import Dropdown from "./Dropdown/Dropdown";
+import HeaderLink from "../HeaderLink/HeaderLink";
 
 const HeaderLoginButton = ({ children, burger, close }) => {
   const { user } = useSelector((state) => state.user);
@@ -15,28 +16,33 @@ const HeaderLoginButton = ({ children, burger, close }) => {
   const dispatch = useDispatch();
   if (user && close) {
     return (
-      <div className="flex-center gap-[6px]">
-        <Link
-          href={links.profile}
-          className="text-[#939393] text-[18px]"
-          onClick={() => {
-            close();
-          }}
-        >
-          {user.username}
-        </Link>
-        <Image
-          src={exitButton}
-          alt="стрелочка смотрит в сторону квадратика"
-          onClick={() => {
-            dispatch(setUser(null));
-            token.logOut();
-            close();
-            router.push(links.mainpage);
-            window.location.reload();
-          }}
-        />
-      </div>
+      <>
+        <HeaderLink href={links.controlTest} close={close}>
+          Тест ЕС - критерий контроля
+        </HeaderLink>
+        <div className="flex-center gap-[6px]">
+          <Link
+            href={links.profile}
+            className="text-[#939393] text-[18px]"
+            onClick={() => {
+              close();
+            }}
+          >
+            {user.username}
+          </Link>
+          <Image
+            src={exitButton}
+            alt="стрелочка смотрит в сторону квадратика"
+            onClick={() => {
+              dispatch(setUser(null));
+              token.logOut();
+              close();
+              router.push(links.mainpage);
+              window.location.reload();
+            }}
+          />
+        </div>
+      </>
     );
   }
   if (user) {
