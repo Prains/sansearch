@@ -59,3 +59,36 @@ export async function getFileUrl(id) {
 
   return url;
 }
+
+/**
+ * @param {string}  documentType - "policy" | "concentToData"
+ */
+
+export async function getFileUrlForPrivacyDocuments(documentType) {
+  const documentUrl =
+    documentType === "policy"
+      ? "confidential-policy"
+      : "personal-data-processing";
+
+  const resp = await fetch(
+    `https://sansearch.ru/strapi/api/${documentUrl}/?populate=*`,
+    {
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: apiToken,
+      },
+      next: { revalidate: 60 },
+    }
+  );
+
+  const url = await resp
+    .json()
+    .then((json) => json.data)
+    .then((data) => data.attributes)
+    .then((attributes) => attributes.pdfFile)
+    .then((pdfFile) => pdfFile.data)
+    .then((fileAttributes) => fileAttributes.attributes)
+    .then((url) => url.url);
+
+  return url;
+}
