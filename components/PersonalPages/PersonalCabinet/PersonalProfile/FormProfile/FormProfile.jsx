@@ -184,7 +184,7 @@ const FormProfile = () => {
         )}
       </div>
       {isOpenPopupDeleteProfile && (
-        <ProfileDeletePopup close={handleClickOpenDeleteProfile} />
+        <ProfileDeletePopup close={handleClickOpenDeleteProfile} user={user} />
       )}
     </form>
   );
