@@ -13,16 +13,13 @@ const ProtectedRoute = ({ children }) => {
   const path = usePathname();
 
   useEffect(() => {
-    if (!user && status === "loading") {
-      return null;
-    }
     if (!user && status === "resolved" && path === links.profile) {
       router.push(links.mainpage);
-    }
-    if (!user && status === "resolved") {
+    } else if (!user && status === "loading") {
+      return null;
+    } else if (!user && status === "resolved") {
       router.push("/access-error");
-    }
-    if (user && user.subscribed === false && path !== links.profile) {
+    } else if (user && user.subscribed === false && path !== links.profile) {
       router.push(`/access-error?name=${user.username}`);
     }
   }, [user, status, path, router]);

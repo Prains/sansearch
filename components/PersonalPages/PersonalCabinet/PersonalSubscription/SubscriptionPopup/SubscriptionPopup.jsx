@@ -2,7 +2,7 @@ import Overlay from "@/components/ui/Overlay";
 import BurgerCloseButton from "@/components/Header/HeaderBurger/BurgerCloseButton/BurgerCloseButton";
 import FormSend from "./FormSend/FormSend";
 
-const SubscriptionPopup = ({ close }) => {
+const SubscriptionPopup = ({ close, user }) => {
   return (
     <Overlay>
       <div className="bg-white w-[300px] lg:w-[606px] flex-center rounded-3xl relative">
@@ -14,7 +14,7 @@ const SubscriptionPopup = ({ close }) => {
           <h4 className="text-[20px] mb-6 text-center lg:text-[32px]">
             Оставьте нам свои контактные данные, мы скоро свяжемся с Вами!
           </h4>
-          <FormSend />
+          <FormSend user={user} />
           <p className="text-[#7a6a6a] text-[11px] mt-[15px] lg:text-[18px]">
             *Поля со звёздочкой обязательны для заполнения
           </p>

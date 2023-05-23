@@ -6,18 +6,25 @@ import Buttons from "@/components/PersonalPages/Buttons";
 import useInput from "@/hooks/useInput";
 import LabelInput from "./LabelInput/LabelInput";
 import { useState } from "react";
-import { useSelector } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 import Loader from "@/components/ui/Loader";
 import ProfileDeletePopup from "../ProfileDeletePopup/ProfileDeletePopup";
+import auth from "@/utils/auth";
+import { setUser } from "@/services/reducers/User";
+import ErrorMessage from "@/components/ui/ErrorMessage";
+import SucessMessage from "@/components/ui/SucessMessage";
 
 const FormProfile = () => {
   const { user } = useSelector((state) => state.user);
+  const dispath = useDispatch();
   const [name, nameChange] = useInput(user?.username);
   const [email, emailChange] = useInput(user?.email);
   const [password, passwordChange] = useInput(user?.password);
   const [isAddButtons, isSetAddButtons] = useState(false);
   const [isOpenPopupDeleteProfile, isSetOpenPopupDeleteProfile] =
     useState(false);
+  const [sucess, setSucess] = useState(false);
+  const [error, setError] = useState(false);
 
   if (!user) {
     return <Loader />;
@@ -85,6 +92,7 @@ const FormProfile = () => {
       htmlType: "text",
       placeholder: "Введите новый пароль",
       defaultValue: password,
+      minLength: 6,
       onChange: (e) => {
         passwordChange(e);
       },
@@ -92,7 +100,29 @@ const FormProfile = () => {
   ];
 
   return (
-    <form className="m-h-[800px]">
+    <form
+      className="m-h-[800px]"
+      onSubmit={(e) => {
+        e.preventDefault();
+        const updated = {
+          username: name,
+          email: email,
+          password: password,
+        };
+        setError(false);
+        auth.changeProfileData(updated, user.id).then((res) => {
+          if (res.error) {
+            setError(true);
+          } else {
+            setSucess(true);
+            setUser(res);
+            setTimeout(() => {
+              window.location.reload();
+            }, 2000);
+          }
+        });
+      }}
+    >
       <Image
         className="w-[100px] h-[100px] mx-auto mb-[20px]"
         src={avatar}
@@ -118,7 +148,8 @@ const FormProfile = () => {
                 />
               );
             })}
-
+        {error && <ErrorMessage>Введенная почта уже используется</ErrorMessage>}
+        {sucess && <SucessMessage>Данные успешно изменены!</SucessMessage>}
         <label className="text-[22px] mr-1 lg:inline-block lg:w-[178px]">
           Подписка:
         </label>
@@ -131,7 +162,7 @@ const FormProfile = () => {
       <div className="mt-[30px]">
         {isAddButtons ? (
           <div>
-            <Buttons type="orange" onClick={handleClickAddButtons}>
+            <Buttons type="orange" htmlType="submit">
               Сохранить изменения
             </Buttons>
             <Buttons

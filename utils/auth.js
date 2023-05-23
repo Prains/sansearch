@@ -59,6 +59,13 @@ class Auth {
       }),
     }).then((res) => res.json());
   }
+  changeProfileData(data, id) {
+    return fetch(`${links.backend}/api/users/${id}`, {
+      method: "put",
+      headers: this._headers,
+      body: JSON.stringify(data),
+    }).then((res) => res.json());
+  }
 }
 
 const auth = new Auth();

@@ -2,9 +2,11 @@
 import PersonalSubtitle from "@/components/PersonalPages/PersonalSubtitle";
 import Button from "@/components/ui/Button";
 import { useState } from "react";
+import useFindUser from "@/hooks/useFindUser";
 import SubscriptionPopup from "./SubscriptionPopup/SubscriptionPopup";
 
 const PersonalSubscription = () => {
+  const user = useFindUser();
   const [isSubscriptionPopup, isSetSubscriptionPopup] = useState(false);
 
   const handleClickOpenSubscriptionPupup = () => {
@@ -25,7 +27,10 @@ const PersonalSubscription = () => {
         Оформить
       </Button>
       {isSubscriptionPopup && (
-        <SubscriptionPopup close={handleClickOpenSubscriptionPupup} />
+        <SubscriptionPopup
+          close={handleClickOpenSubscriptionPupup}
+          user={user}
+        />
       )}
     </article>
   );

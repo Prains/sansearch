@@ -3,19 +3,16 @@ import Button from "@/components/ui/Button";
 import Buttons from "@/components/PersonalPages/Buttons";
 import useInput from "@/hooks/useInput";
 import { useState } from "react";
-import { useSelector } from "react-redux";
 import InputSend from "./InputSend/InputSend";
 import { sendFormToEmailjs } from "@/utils/sendFormToEmailjs";
 
-const FormSend = () => {
-  const { user } = useSelector((state) => state.user);
-  const [name, nameChange] = useInput(user?.username ?? "");
-  const [email, emailChange] = useInput(user?.email ?? "");
+const FormSend = ({ user }) => {
+  const [name, nameChange] = useInput(user.username);
+  const [email, emailChange] = useInput(user.email);
   const [phone, setPhone] = useInput("");
 
-  const [isSendInfoForSubscription, isSetSendInfoForSubscription] = useState(
-    false
-  );
+  const [isSendInfoForSubscription, isSetSendInfoForSubscription] =
+    useState(false);
 
   if (!user) {
     return null;

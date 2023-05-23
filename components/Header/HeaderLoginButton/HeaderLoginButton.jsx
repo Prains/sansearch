@@ -16,7 +16,13 @@ const HeaderLoginButton = ({ children, burger, close }) => {
   if (user && close) {
     return (
       <div className="flex-center gap-[6px]">
-        <Link href={links.profile} className="text-[#939393] text-[18px]">
+        <Link
+          href={links.profile}
+          className="text-[#939393] text-[18px]"
+          onClick={() => {
+            close();
+          }}
+        >
           {user.username}
         </Link>
         <Image
@@ -25,16 +31,16 @@ const HeaderLoginButton = ({ children, burger, close }) => {
           onClick={() => {
             dispatch(setUser(null));
             token.logOut();
-            router.push(links.mainpage);
-            router.refresh();
             close();
+            router.push(links.mainpage);
+            window.location.reload();
           }}
         />
       </div>
     );
   }
   if (user) {
-    return <Dropdown user={user}/>;
+    return <Dropdown user={user} />;
   }
   return (
     <>
