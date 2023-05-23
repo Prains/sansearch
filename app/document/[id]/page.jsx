@@ -15,6 +15,7 @@ export default async function Document({ params: { id } }) {
     <>
       <Main
         searchingZone={getZoneAndTitle(document.attributes.type).searchingZone}
+        type={document.attributes.type}
         searchingZoneTitle={
           getZoneAndTitle(document.attributes.type).searchingZoneTitle
         }

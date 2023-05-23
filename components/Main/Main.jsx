@@ -4,9 +4,20 @@ import Title from "@/components/ui/Title";
 import { background } from "@/images/Mainpage/Main";
 import SearchBar from "./SearchBar/SearchBar";
 import MainButtons from "./MainButtons/MainButtons";
+import useFindUser from "@/hooks/useFindUser";
+import { useRouter } from "next/navigation";
+import links from "@/utils/links";
 
-const Main = ({ searchingZone, searchingZoneTitle }) => {
+const Main = ({ searchingZone, searchingZoneTitle, type }) => {
+  const user = useFindUser();
+  const router = useRouter();
   const [zone, setZone] = useState(searchingZone ?? "ru");
+  if (
+    (!user?.subscribed && type === "eu") ||
+    (!user?.subscribed && type === "usa")
+  ) {
+    router.push(links.accessError);
+  }
 
   const classForTitle = searchingZoneTitle && "mx-auto";
 
