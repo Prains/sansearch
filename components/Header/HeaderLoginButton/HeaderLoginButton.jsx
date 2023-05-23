@@ -17,7 +17,11 @@ const HeaderLoginButton = ({ children, burger, close }) => {
   if (user && close) {
     return (
       <>
-        <HeaderLink href={links.controlTest} close={close}>
+        <HeaderLink
+          href={links.controlTest}
+          close={close}
+          className="list-none my-[-50px]"
+        >
           Тест ЕС - критерий контроля
         </HeaderLink>
         <div className="flex-center gap-[6px]">

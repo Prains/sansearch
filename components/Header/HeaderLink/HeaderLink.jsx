@@ -2,10 +2,10 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-const HeaderLink = ({ children, href, close }) => {
+const HeaderLink = ({ children, href, close, className }) => {
   const path = usePathname();
   return (
-    <li>
+    <li className={className}>
       <Link
         href={href}
         className={
