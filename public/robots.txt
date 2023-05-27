@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://sansearch.ru
+
+# Sitemaps
+Sitemap: https://sansearch.ru/sitemap.xml
+Sitemap: https://sansearch.ru/server-sitemap-index.xml
